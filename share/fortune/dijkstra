@@ -132,10 +132,16 @@ whether submarines can swim.
 %
 The use of COBOL cripples the mind; its teaching should therefore be
 regarded as a criminal offense.
-    --E.W. Dijkstra
+    --Edsger Dijkstra, EWD498 "How do we tell truths that might hurt?"
+      http://www.cs.utexas.edu/users/EWD/transcriptions/EWD04xx/EWD498.html
 %
 The tools we use have a profound (and devious!) influence on our thinking
 habits, and, therefore, on our thinking abilities.
+    --Edsger Dijkstra, EWD498 "How do we tell truths that might hurt?"
+      http://www.cs.utexas.edu/users/EWD/transcriptions/EWD04xx/EWD498.html
+%
+[I]t is impossible to sharpen a pencil with a blunt axe. It is equally
+vain to try to do it with ten blunt axes instead.
     --Edsger Dijkstra, EWD498 "How do we tell truths that might hurt?"
       http://www.cs.utexas.edu/users/EWD/transcriptions/EWD04xx/EWD498.html
 %
@@ -146,6 +152,18 @@ native tongue is the most vital asset of a competent programmer.
 %
 Many companies...will collapse under the sheer weight of the unmastered
 complexity of their data processing systems.
+    --Edsger Dijkstra, EWD498 "How do we tell truths that might hurt?"
+      http://www.cs.utexas.edu/users/EWD/transcriptions/EWD04xx/EWD498.html
+%
+By claiming that they can contribute to software engineering, the soft
+scientists make themselves even more ridiculous. (Not less dangerous,
+alas!) In spite of its name, software engineering requires (cruelly)
+hard science for its support.
+    --Edsger Dijkstra, EWD498 "How do we tell truths that might hurt?"
+      http://www.cs.utexas.edu/users/EWD/transcriptions/EWD04xx/EWD498.html
+%
+Projects promoting programming in "natural language" are intrinsically
+doomed to fail.
     --Edsger Dijkstra, EWD498 "How do we tell truths that might hurt?"
       http://www.cs.utexas.edu/users/EWD/transcriptions/EWD04xx/EWD498.html
 %
