@@ -649,3 +649,12 @@ that your competitors don't understand.
 %
 "It works!"...Sadly, this phrase is also the shortest lie in computing....
     --Matthias Felleisen et al., _How to Design Programs, Second Edition_
+%
+What I now have to do, is to go to the person who refactored this part
+of the code and who crafted this wonderful descriptive commit message
+["Refactoring"], and kill him or her. In an ideal world I would be
+allowed to do so, but because of laws and the basic rules of humanity,
+what I really have to do is to talk to the person, to find out why the
+code was changed in the first place.
+    --Markus Oberlehner, "Git, the pedantic way"
+      https://markus.oberlehner.net/blog/git-the-pedantic-way
