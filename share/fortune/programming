@@ -522,7 +522,7 @@ might as well have been written by someone else.
 The first 90% of the code accounts for the first 90% of the development
 time.  The remaining 10% of the code accounts for the other 90% of the
 development time.
-    --Tom Cargill
+    --Tom Cargill, Bell Labs
 %
 As soon as we started programming, we found to our surprise that it
 wasn’t as easy to get programs right as we had thought.  Debugging had
@@ -665,3 +665,59 @@ one case a member of the Upper, and in the other a member of the Lower,
 House put this question. I am not able rightly to apprehend the kind of
 confusion of ideas that could provoke such a question.
     --Charles Babbage, _Passages from the Life of a Philosopher_ (1864)
+%
+If you cant' write it down in English, you can't code it.
+    --Peter Halpern
+%
+Details count.
+    --Peter Weinberger, Bell Labs
+%
+If the code and the comments disagree, then both are probably wrong.
+    --Norm Schryer, Bell Labs
+%
+Get yoru data structures correct first, and the rest of the program
+will write itself.
+    --David Jones
+%
+It takes three timnes the effort to find and fix bugs in system test
+than when done by the developer. It takes ten times the effort to find
+and fix bugs in the field than when done in system test. Therefore,
+insist on unit tests by the developer.
+    --Larry Bernstein, Bell Communications Research
+%
+The cheapest, fastest and most reliable components of a computer
+system are those that aren't there.
+    --Gordon Bell, Encore Computer Corporation
+%
+The structure of a system reflects the structure of the organization
+that built it.
+    --Richard E. Fairley, Wang Institute
+%
+I'd rather write programs to write programs than write programs.
+    --Dick Sites, Digital Equipment Corporation
+%
+Thompson's rule for first-time telescope makers:
+It is faster to make a four-inch mirror then a six-inch mirror
+than to make a six-inch mirror.
+    --Bill McKeeman, Wang Institute
+%
+Furious activity is not substitute for understanding.
+    --H.H. Williams
+%
+If you lie to the computer, it will get you.
+    --Perry Farrar
+%
+If a system doesn't have to be reliable, it can do anything else.
+    --H.H. Williams
+%
+One person's data is another person's program.
+    --Guy L. Steele, Jr., Tartan Laboratories
+%
+Eschew clever rules.
+    --Joe Condon, Bell Labs
+%
+When Vic Vyssotsky modified a Fortran compiler in the early 1960s he
+spent a week making a correct routine very fast, and thereby
+introduced a bug. The bug surfaced two years later, because the
+routine _had never once been called_ in over 100,000 compilations.
+    --Jon Bentley, "Programming Pearls", CACM 1985-09 v28n9
