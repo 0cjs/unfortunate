@@ -721,3 +721,5 @@ spent a week making a correct routine very fast, and thereby
 introduced a bug. The bug surfaced two years later, because the
 routine _had never once been called_ in over 100,000 compilations.
     --Jon Bentley, "Programming Pearls", CACM 1985-09 v28n9
+%
+My other car is a cdr.
