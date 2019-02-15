@@ -723,3 +723,6 @@ routine _had never once been called_ in over 100,000 compilations.
     --Jon Bentley, "Programming Pearls", CACM 1985-09 v28n9
 %
 My other car is a cdr.
+%
+If it hurts, do it more often.
+    --Martin Fowler, https://martinfowler.com/bliki/FrequencyReducesDifficulty
