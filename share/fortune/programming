@@ -726,3 +726,15 @@ My other car is a cdr.
 %
 If it hurts, do it more often.
     --Martin Fowler, https://martinfowler.com/bliki/FrequencyReducesDifficulty
+%
+I dislike the implicit declaration of lexicals because it tends to defeat
+the primary use of them, namely, catching typos. It’s just too easy to
+declare additional variable names by accident. It’s also too easy to
+broaden the scope of a variable by accident. You might have a bunch of
+separate subroutines each with their own lexical, and suddenly find that
+they’re all the same variable because you accidentally used the same
+variable name in the module initialization code....
+  And when it comes down to it, I believe that declarations with `my`
+are properly Huffman encoded.
+    --Lary Wall, on Perl RFC 106, "Lexical variables made default"
+      https://www.perl.com/pub/2002/01/15/apo4.html/?page=8
