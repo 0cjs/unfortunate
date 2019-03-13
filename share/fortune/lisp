@@ -41,3 +41,13 @@ enough to re-engineer it and, if you must, slap a parser on the front.
 %
 What I like about Lisp is that you can feel the bits between your toes.
     --Drew McDermott, 1977
+%
+Lisp is the world's greatest programming lagnuage--or so its proponents
+think.
+    --Guy Steele and Richard Gabriel, "The Evolution of Lisp" (1993)
+%
+Overall, the evolution of Lisp has been guided more by institutional
+rivalry, one-upsmanship, and the glee born of technical cleverness
+that is characteristic of the "hacker culture" than by sober assessments
+of technical requirements.
+    --Guy Steele and Richard Gabriel, "The Evolution of Lisp" (1993)
