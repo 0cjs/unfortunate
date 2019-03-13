@@ -1,21 +1,3 @@
-Pascal is for building pyramids -- imposing, breathtaking, static
-structures built by armies pushing heavy blocks into place. Lisp is for
-building organisms -- imposing, breathtaking, dynamic structures built
-by squads fitting fluctuating myriads of simpler organisms into place.
-    --Alan J. Perlis, SICP Introduction
-%
-The discretionary exportable functionality entrusted to the individual
-Lisp programmer is more than an order of magnitude greater than that to
-be found within Pascal enterprises. Lisp programs inflate libraries with
-functions whose utility transcends the application that produced them.
-    --Alan J. Perlis, SICP Introduction
-%
-Lisp has such a simple syntax and semantics that parsing can be treated
-as an elementary task. Thus parsing technology plays almost no role in
-Lisp programs, and the construction of language processors is rarely an
-impediment to the rate of growth and change of large Lisp systems.
-    --Alan J. Perlis, SICP Introduction
-%
 But in our enthusiasm, we could not resist a radical overhaul of the
 system, in which all of its major weaknesses have been exposed,
 analyzed, and replaced with new weaknesses.
@@ -180,12 +162,6 @@ because God is not capricious or arbitrary. No such faith comforts the
 software engineer.
     --Fred Brooks
 %
-Greenspun's Tenth Rule of Programming:
-Any sufficiently complicated C or Fortran program contains an ad hoc
-informally-specified bug-ridden slow implementation of half of Common
-Lisp.
-    --Philip Greenspun
-%
 Should array indices start at 0 or 1? My compromise of 0.5 was rejected
 without, I thought, proper consideration.
     --Stan Kelly-Bootle
@@ -222,23 +198,6 @@ Use (set! x ...) for (let ((x ...)) ...) only if there is at least one
 (lambda ... between it and the (let ...), or if the new value for x is a
 function that refers to x.
     --The Seventeenth Commandment, _The Seasoned Schemer_
-%
-Lisp is an excellent laboratory for language experimentation for two
-reasons. First, one can choose a very small subset, with only a dozen
-primitives or so, that is still recognizably a member of the class
-of Lisp-like languages. It is very easy to bootstrap such a small
-language, with variations of choice, on a new platform. If it looks
-promising, one can flesh out the long laundry list of amenities later.
-Second, it is particularly easy--the work of an hour or less--to
-bootstrap such a new dialect within an existing Lisp implementation.
-Even if the host implementation differs in fundamental ways from the
-new dialect, it can provide primitive operations such as arithmetic
-and I/O as well as being a programming language that is just plain
-convenient for writing language interpreters. If you can live with
-the generic, list-structure-oriented syntax, you can have a field day
-reprogramming the semantics. After you get that right there is time
-enough to re-engineer it and, if you must, slap a parser on the front.
-    --Guy Steele and Richard Gabriel, "The Evolution of Lisp"
 %
 The problem with object-oriented languages is they've got all this
 implicit environment that they carry around with them. You wanted a
@@ -738,6 +697,3 @@ variable name in the module initialization code....
 are properly Huffman encoded.
     --Lary Wall, on Perl RFC 106, "Lexical variables made default"
       https://www.perl.com/pub/2002/01/15/apo4.html/?page=8
-%
-What I like about Lisp is that you can feel the bits between your toes.
-    --Drew McDermott, 1977
