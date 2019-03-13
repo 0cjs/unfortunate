@@ -738,3 +738,6 @@ variable name in the module initialization code....
 are properly Huffman encoded.
     --Lary Wall, on Perl RFC 106, "Lexical variables made default"
       https://www.perl.com/pub/2002/01/15/apo4.html/?page=8
+%
+What I like about Lisp is that you can feel the bits between your toes.
+    --Drew McDermott, 1977
