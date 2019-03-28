@@ -697,3 +697,7 @@ variable name in the module initialization code....
 are properly Huffman encoded.
     --Lary Wall, on Perl RFC 106, "Lexical variables made default"
       https://www.perl.com/pub/2002/01/15/apo4.html/?page=8
+%
+Now is better than never.
+Although never is often better than *right* now.
+    --From "The Zen of Python" (`import this`), by Tim Peters
