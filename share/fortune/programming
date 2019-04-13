@@ -701,3 +701,17 @@ are properly Huffman encoded.
 Now is better than never.
 Although never is often better than *right* now.
     --From "The Zen of Python" (`import this`), by Tim Peters
+%
+I get paid for code that works, not tests.
+    --https://stackoverflow.com/a/153565/107294
+%
+Now I'm a pretty lazy person and am prepared to work quite hard in order
+to avoid work.
+    --Martin Fowler
+%
+I'm not a great programmer; I'm just a good programmer with great habits.
+    --Kent Beck
+%
+A plan is an example of what could happen, not a prediction of what will
+happen.
+    --Kent Beck
