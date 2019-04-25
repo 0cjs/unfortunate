@@ -24,7 +24,7 @@ it cannot even approach its goal since its goal is self-contradictory.
 Software engineering, of course, presents itself as another worthy
 cause, but that is eyewash: if you carefully read its literature and
 analyse what its devotees actually do, you will discover that software
-engineering has accepted as its charter "How to program if you cannot.".
+engineering has accepted as its charter "How to program if you cannot."
     --Edsger Dijkstra, EWD1036
 %
 So much for the mathematicians.
@@ -98,7 +98,6 @@ say to yourself, "Dijkstra would not have liked this," well, that would
 be enough immortality for me.
     --Edgar Dijkstra
 %
-
 If debugging is the process of removing software bugs, then programming
 must be the process of putting them in.
     --Edgar Dijkstra
