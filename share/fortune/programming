@@ -723,3 +723,8 @@ happen.
   POPPENCORKEN MIT SPITZENSPARKEN. IST NICHT FÜR GEWERKEN BEI DUMMKOPFEN.
 DER RUBBERNECKEN SIGHTSEEREN KEEPEN DAS COTTONPICKEN HÄNDER IN DAS POCKETS
          MUSS. ZO RELAXEN UND WATSCHEN DER BLINKENLICHTEN.
+%
+All numbers are octal integers: to input the number -1 it is necessary
+to type 777776.    [Ed. note: _not_ 777777!]
+    -- Peter Deutsch's PDP-1 LISP memo.
+       https://archive.org/details/bitsavers_mitrlepdp1P_420747
