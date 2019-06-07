@@ -728,3 +728,8 @@ All numbers are octal integers: to input the number -1 it is necessary
 to type 777776.    [Ed. note: _not_ 777777!]
     -- Peter Deutsch's PDP-1 LISP memo.
        https://archive.org/details/bitsavers_mitrlepdp1P_420747
+%
+The readability of programs is immeasurably more important than
+their writeability.
+    - C.A.R. Hoare, Hints on Programming Language Design, 1973
+      https://web.eecs.umich.edu/~bchandra/courses/papers/Hoare_Hints.pdf
