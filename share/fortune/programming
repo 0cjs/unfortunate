@@ -669,9 +669,6 @@ If you lie to the computer, it will get you.
 If a system doesn't have to be reliable, it can do anything else.
     --H.H. Williams
 %
-One person's data is another person's program.
-    --Guy L. Steele, Jr., Tartan Laboratories
-%
 Eschew clever rules.
     --Joe Condon, Bell Labs
 %
@@ -680,8 +677,6 @@ spent a week making a correct routine very fast, and thereby
 introduced a bug. The bug surfaced two years later, because the
 routine _had never once been called_ in over 100,000 compilations.
     --Jon Bentley, "Programming Pearls", CACM 1985-09 v28n9
-%
-My other car is a cdr.
 %
 If it hurts, do it more often.
     --Martin Fowler, https://martinfowler.com/bliki/FrequencyReducesDifficulty
@@ -723,11 +718,6 @@ happen.
   POPPENCORKEN MIT SPITZENSPARKEN. IST NICHT FÜR GEWERKEN BEI DUMMKOPFEN.
 DER RUBBERNECKEN SIGHTSEEREN KEEPEN DAS COTTONPICKEN HÄNDER IN DAS POCKETS
          MUSS. ZO RELAXEN UND WATSCHEN DER BLINKENLICHTEN.
-%
-All numbers are octal integers: to input the number -1 it is necessary
-to type 777776.    [Ed. note: _not_ 777777!]
-    -- Peter Deutsch's PDP-1 LISP memo.
-       https://archive.org/details/bitsavers_mitrlepdp1P_420747
 %
 The readability of programs is immeasurably more important than
 their writeability.

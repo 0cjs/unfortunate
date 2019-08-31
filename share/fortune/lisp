@@ -51,3 +51,13 @@ rivalry, one-upsmanship, and the glee born of technical cleverness
 that is characteristic of the "hacker culture" than by sober assessments
 of technical requirements.
     --Guy Steele and Richard Gabriel, "The Evolution of Lisp" (1993)
+%
+My other car is a cdr.
+%
+One person's data is another person's program.
+    --Guy L. Steele, Jr., Tartan Laboratories
+%
+All numbers are octal integers: to input the number -1 it is necessary
+to type 777776.    [Ed. note: _not_ 777777!]
+    -- Peter Deutsch's PDP-1 LISP memo.
+       https://archive.org/details/bitsavers_mitrlepdp1P_420747
