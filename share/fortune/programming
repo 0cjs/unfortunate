@@ -746,3 +746,14 @@ It is conceded that TECO's error messages are not overly informative.
 "No one will ever need more than 256 bytes of stack."
     -- Paraphrase of p.112 of _MCS6500 Microcomputer Family Programming
         Manual_ (MOS Technology, 1976-01)
+%
+When I’m trying to understand someone else’s code I tend to find the
+best way is to refactor or even rewrite it. I start by just formatting
+it to be the way I like. Then I start changing names that seem unclear
+or poorly chosen. And then I start mucking with the structure. There’s
+nothing I like better than discovering a big chunk of dead code I can
+delete and not have to worry about understanding. Usually when I’m
+done with that I not only have a piece of code that I think is much
+better but I also can understand the original.
+    -- Peter Seibel, interview in _Lisp Hackers_
+       https://leanpub.com/lisphackers/read#peter-seibel-usa
