@@ -721,7 +721,7 @@ DER RUBBERNECKEN SIGHTSEEREN KEEPEN DAS COTTONPICKEN HÄNDER IN DAS POCKETS
 %
 The readability of programs is immeasurably more important than
 their writeability.
-    - C.A.R. Hoare, Hints on Programming Language Design, 1973
+    --C.A.R. Hoare, Hints on Programming Language Design, 1973
       https://web.eecs.umich.edu/~bchandra/courses/papers/Hoare_Hints.pdf
 %
 Greatness comes from thousands of small improvements... Only in
@@ -744,8 +744,8 @@ It is conceded that TECO's error messages are not overly informative.
       ftp://publications.ai.mit.edu/ai-publications/pdf/AIM-081.pdf
 %
 "No one will ever need more than 256 bytes of stack."
-    -- Paraphrase of p.112 of _MCS6500 Microcomputer Family Programming
-        Manual_ (MOS Technology, 1976-01)
+    --Paraphrase of p.112 of _MCS6500 Microcomputer Family Programming
+      Manual_ (MOS Technology, 1976-01)
 %
 When I’m trying to understand someone else’s code I tend to find the
 best way is to refactor or even rewrite it. I start by just formatting
@@ -755,5 +755,5 @@ nothing I like better than discovering a big chunk of dead code I can
 delete and not have to worry about understanding. Usually when I’m
 done with that I not only have a piece of code that I think is much
 better but I also can understand the original.
-    -- Peter Seibel, interview in _Lisp Hackers_
-       https://leanpub.com/lisphackers/read#peter-seibel-usa
+    --Peter Seibel, interview in _Lisp Hackers_
+      https://leanpub.com/lisphackers/read#peter-seibel-usa
