@@ -757,3 +757,24 @@ done with that I not only have a piece of code that I think is much
 better but I also can understand the original.
     --Peter Seibel, interview in _Lisp Hackers_
       https://leanpub.com/lisphackers/read#peter-seibel-usa
+%
+In a situation where code actually has to be produced, nobody should
+be allowed in the system who doesn’t write some given number of lines
+of code per month. I think that one of the major problems with the
+very large programming projects has been the lack of competence in
+programming which one observes as soon as one goes above the very
+bottom level. People begin to talk in vague general terms using words
+like 'module', and very rarely ever get down to the detail of what a
+module actually is. They use phrases like 'communicate across modules
+by going up and then down' — all of the vague administratese which in
+a sense must cover up a native and total incompetence.
+    --Alan J. Perlis, NATO Software Engineering Conference 1968 (p.88)
+      http://homepages.cs.ncl.ac.uk/brian.randell/NATO/nato1968.PDF
+%
+McClure: I know of very few programming establishments where supervisors
+  actually bother to read the code produced by their staff and make some
+  effort to understand it. I believe that this is absolutely essential.
+Buxton: I know of very few programming establishments in which the
+  supervisor is capable of reading code — some present company excepted!
+    --NATO Software Engineering Conference 1968 (p.89)
+      http://homepages.cs.ncl.ac.uk/brian.randell/NATO/nato1968.PDF
