@@ -195,3 +195,12 @@ that it can be done by accurate morons, provided you have enough of
 them, but then we continue to fool ourselves and no one can do so for
 a long time unpunished.
     --Edsger Dijkstra, EWD303
+%
+If FORTRAN has been called an infantile disorder, PL/1 must be
+classified as a fatal disease.
+    --Edsger Dijkstra, EWD316 (1971) Preface
+%
+[T]he true subject matter of the programmer's activity is not the
+program he composes, but the class of possible computations that may
+be evoked by it, the "production" of which he delegates to the machine.
+    --Edsger Dijkstra, EWD316 (1971) Ch. 2
