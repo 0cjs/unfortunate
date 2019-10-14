@@ -778,3 +778,14 @@ Buxton: I know of very few programming establishments in which the
   supervisor is capable of reading code — some present company excepted!
     --NATO Software Engineering Conference 1968 (p.89)
       http://homepages.cs.ncl.ac.uk/brian.randell/NATO/nato1968.PDF
+%
+We were truly naive in that we built a machine using the very first
+decent microprocessor, the 8008. I funded that development and wrote
+some of the software.... 8008 wasn't capable of running a BASIC
+interpreter. That had always been my Holy Grail because I had played
+around writing a little bit of a BASIC Interpreter on a PDP-8, and a
+Data General machine.
+    --Bill Gates Interview, Smithsonian National Museum of American History
+      https://americanhistory.si.edu/comphist/gates.htm
+      Inadvertantly explaining why we all used BASIC on microcomputers
+      in the '70s-'80s though he knew LISP.
