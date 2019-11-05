@@ -789,3 +789,12 @@ Data General machine.
       https://americanhistory.si.edu/comphist/gates.htm
       Inadvertantly explaining why we all used BASIC on microcomputers
       in the '70s-'80s though he knew LISP.
+%
+Whenever I've wondered about how something in Erlang works, I have
+never been disappointed in the answer. I almost always leave with the
+impression that the designers did the “right thing”. I suppose this is
+in contrast to Java, which does the pedantic thing, Perl, which does
+the kludgy thing, Ruby, which has two independent implementations of
+the wrong thing, and C, which doesn't do anything.
+    --Evan Miller, Why I Program In Erlang (2012-10-20)
+      https://www.evanmiller.org/why-i-program-in-erlang.html
