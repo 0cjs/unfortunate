@@ -798,3 +798,7 @@ the kludgy thing, Ruby, which has two independent implementations of
 the wrong thing, and C, which doesn't do anything.
     --Evan Miller, Why I Program In Erlang (2012-10-20)
       https://www.evanmiller.org/why-i-program-in-erlang.html
+%
+Caveat Emptor: The cost of software maintenance increases with the
+square of the progammer's creativity.
+    --Robert D. Bliss, First Law of Programmer Creativity, 1992
