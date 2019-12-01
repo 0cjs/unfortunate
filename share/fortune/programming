@@ -802,3 +802,7 @@ the wrong thing, and C, which doesn't do anything.
 Caveat Emptor: The cost of software maintenance increases with the
 square of the progammer's creativity.
     --Robert D. Bliss, First Law of Programmer Creativity, 1992
+%
+The price of reliability is the pursuit of the utmost simplicity. It
+is a price which the very rich find most hard to pay.
+    --C.A.R. Hoare, 1980 (Epigraph of EWD1304)
