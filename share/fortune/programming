@@ -1,7 +1,7 @@
 But in our enthusiasm, we could not resist a radical overhaul of the
 system, in which all of its major weaknesses have been exposed,
 analyzed, and replaced with new weaknesses.
-    --Bruce Leverett, "Register Allocation in Optimizing  Compilers"
+    --Bruce Leverett, _Register Allocation in Optimizing Compilers_ (1983)
 %
 Central in the final design was the goal to be comprehensive while being
 simple and minimising changes... Simplicity generally overruled maximum
@@ -591,7 +591,7 @@ principles and the advantages of correctness proofs replacing testing.
 After a long discussion about the pros and cons, Jim Morris got up and
 disarmingly asked: "But Tony, what is your answer if we frankly confess
 that we dearly love debugging? Do you want us to abandon our most cherished
-enjoyment?
+enjoyment?"
     --Niklaus Wirth, from an interview in Software Development, June 1997
 %
 C++ programmers have extensive first-hand experience with the sheer
