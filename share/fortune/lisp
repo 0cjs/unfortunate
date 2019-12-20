@@ -1,3 +1,11 @@
+LISP is an object-oriented lanugage, rather than a value-oriented
+lanugage. The LISP programmer does not think of variables as the
+objects of interest, bins in which values can be held. Instead each
+data item is itself an object, which can be examined and modified, and
+which has an identity independent of the variable(s) used to name it.
+    --Steele and Sussman, "AIM-514: Design of LISP-Based Processors"
+      (1979-03-01) https://dspace.mit.edu/handle/1721.1/5731
+%
 Pascal is for building pyramids -- imposing, breathtaking, static
 structures built by armies pushing heavy blocks into place. Lisp is for
 building organisms -- imposing, breathtaking, dynamic structures built
