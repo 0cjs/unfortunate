@@ -806,3 +806,12 @@ square of the progammer's creativity.
 The price of reliability is the pursuit of the utmost simplicity. It
 is a price which the very rich find most hard to pay.
     --C.A.R. Hoare, 1980 (Epigraph of EWD1304)
+%
+Um das ungewollte Freimelden von Streckenabschnitten durch das Rückstellen
+der Achszähler auf Null und dadurch Zugsgefährdungen zu vermeiden, darf die
+effektive Gesamtachszahl eines Zuges nicht 256 Achsen betragen.
+  (In order to avoid endangering trains through reporting sections of the
+route as free because axle counters were reset to zero, the effective total
+number of axles of a train must not be 256 axles.)
+    --Swiss Railway Regulations
+      Zugvorbereitung R 300.5 Zugbildung R I-30111 §4.7.4
