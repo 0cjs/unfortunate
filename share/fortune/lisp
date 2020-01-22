@@ -69,3 +69,13 @@ All numbers are octal integers: to input the number -1 it is necessary
 to type 777776.    [Ed. note: _not_ 777777!]
     -- Peter Deutsch's PDP-1 LISP memo.
        https://archive.org/details/bitsavers_mitrlepdp1P_420747
+%
+The unexpected appearance of an interpreter tended to freeze the form
+of the language, and some of the decisions made rather lightheartedly
+for the ... paper later proved unfortunate. These included ... the use
+of the number zero to denote the empty list NIL and the truth value
+false. Besides encouraging pornographic programming, giving a special
+interpretation to the address 0 has caused difficulties in all
+subsequent implementations.
+    --John McCarthy, _History of Lisp_, 1979
+      http://jmc.stanford.edu/articles/lisp.html
