@@ -79,3 +79,10 @@ interpretation to the address 0 has caused difficulties in all
 subsequent implementations.
     --John McCarthy, _History of Lisp_, 1979
       http://jmc.stanford.edu/articles/lisp.html
+%
+Indeed, any friendly APL or LISP interpreter would be more than happy
+to return 1 when 1 is typed to it. However, many people would claim
+that 1 is data, and not a program. For the sake of this letter, we
+will pay homage to this unfounded prejudice....
+    --"Thief-Reproduthing Programth," Letter to BYTE, 1980-12 p.16
+      Daniel Weise, NE43-838, MIT Laboratory for Computer Science
