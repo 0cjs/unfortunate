@@ -1,0 +1,104 @@
+When in doubt, use brute force.
+    --Ken Thompson (Programming Pearls, CACM Sept. 1985)
+%
+The sooner you start to code, the longer the program will take.
+    --Roy Carlson, Univ. of Wisonsin (Programming Pearls, CACM Sept. 1985)
+%
+If you can't write it down in English, you can't code it.
+    --Peter Halpern (Programming Pearls, CACM Sept. 1985)
+%
+Details count.
+    --Peter Weinberger, Bell Labs (Programming Pearls, CACM Sept. 1985)
+%
+If the code and the comments disagree, then both are probably wrong.
+    --Norm Schryer, Bell Labs (Programming Pearls, CACM Sept. 1985)
+%
+If you have too many special cases, you are doing it wrong.
+    --Craig Zerouni, Computer FX Ltd. (Programming Pearls, CACM Sept. 1985)
+%
+Get your data structures correct first, and the rest of the program
+will write itself.
+    --David Jones (Programming Pearls, CACM Sept. 1985)
+%
+It takes three times the effort to find and fix bugs in system test
+than when done by the developer. It takes ten times the effort to find
+and fix bugs in the field than when done in system test. Therefore,
+insist on unit tests by the developer.
+    --Larry Bernsetin, Bell Communications Research
+      (Programming Pearls, CACM Sept. 1985)
+%
+[The Maintainer's Motto] If we can't fix it, it ain't broke.
+    --Lieutenant Colonel Walt Weir, United States Army
+      (Programming Pearls, CACM Sept. 1985)
+%
+If the programmer can simulate a construct faster than the compiler
+can implement the construct itself, then the compiler writer has
+blown it badly.
+    --Guy L. Steele, Jr., Tartan Laboratories
+      (Programming Pearls, CACM Sept. 1985)
+%
+The cheapest, fastest and most reliable components of a computer
+system are those that aren't there.
+    --Gordon Bell, Encore Computer Corporation
+      (Programming Pearls, CACM Sept. 1985)
+%
+[Compiler Writer's Motto--Optimization Pass]
+Making a wrong program worse is no sin.
+    --Bill McKeeman, Wang Institute
+      (Programming Pearls, CACM Sept. 1985)
+%
+Electricty travels a foot in a nanosecond.
+    --Commodore Grace Murray Hopper, United States Navy
+      (Programming Pearls, CACM Sept. 1985)
+%
+Don't keep doing what doesn't work.
+    --Anon. (Programming Pearls, CACM Sept. 1985)
+%
+Good judgement comes from experience, and experience comes from bad
+judgement.
+    --Fred Brooks, University of North Carolina
+      (Programming Pearls, CACM Sept. 1985)
+%
+Whenever possible, steal code.
+    --Tom Duff, Bell Labs (Programming Pearls, CACM Sept. 1985)
+%
+Good customer relations double productivity.
+    --Larry Bernsetin, Bell Communications Research
+      (Programming Pearls, CACM Sept. 1985)
+%
+Don't use the computer to do things that can be done efficiently by hand.
+    --Richard Hill, Hewlett-Packard S.A., Geneva, Switzerland
+      (Programming Pearls, CACM Sept. 1985)
+%
+I'd rather write programs to write programs than write programs.
+    --Dick Sites, DEC (Programming Pearls, CACM Sept. 1985)
+%
+[Thompson's rule for first-time telescope makers] It is faster to make
+a four inch mirror then a six inch mirror than to make a six-inch mirror.
+    --Bill McKeeman, Wang Institute (Programming Pearls, CACM Sept. 1985)
+%
+Furious activity is no substitute for understanding.
+    --H.H. Williams (Programming Pearls, CACM Sept. 1985)
+%
+Always do the hard part first. If the hard part is impossible, why waste
+time on the easy part? Once the hard part is done, you're home free.
+
+Always do the easy part first. What you think at first is the easy part
+often turns out to be the hard part. Once the easy part is done, you can
+concentrate all your efforts on the hard part.
+    --Al Schapira, Bell Labs (Programming Pearls, CACM Sept. 1985)
+%
+If you lie to the computer, it will get you.
+    --Perry Farrar (Programming Pearls, CACM Sept. 1985)
+%
+If a system doesn't have to be reliable, it can do anything else.
+    --H.H. Williams (Programming Pearls, CACM Sept. 1985)
+%
+One person's constant is another person's variable.
+    --Susan Gerhart, Microelecronics and Computer Technology Corp.
+
+One person's data is another person's program.
+    --Guy L. Steele, Jr., Tartan Laboratories
+%
+Eschew clever rules.
+    --Joe Conson, Bell Labs (Programming Pearls, CACM Sept. 1985)

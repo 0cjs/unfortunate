@@ -86,3 +86,7 @@ that 1 is data, and not a program. For the sake of this letter, we
 will pay homage to this unfounded prejudice....
     --"Thief-Reproduthing Programth," Letter to BYTE, 1980-12 p.16
       Daniel Weise, NE43-838, MIT Laboratory for Computer Science
+%
+LISP programmers know the value of everything but the cost of nothing.
+    --Alan Perlis, Yale University
+      (Programming Pearls, CACM Sept. 1985)
