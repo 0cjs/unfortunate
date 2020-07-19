@@ -93,3 +93,15 @@ LISP programmers know the value of everything but the cost of nothing.
 %
 "My God, it's full of 'CAR's."
     --XKCD, "Lisp"  https://xkcd.com/224/
+%
+Another nice thing about Suns is their simplicity. You know how a LispM is
+always jumping into that awful, hairy debugger with the confusing backtrace
+display, and expecting you to tell it how to proceed? Well, Suns ALWAYS
+know how to proceed. They dump a core file, and kill the offending process.
+What could be easier? If there's a window involved, it closes right up.
+(Did I feel a draft?) This simplicity greatly decreases debugging time,
+because you immediately give up all hope of finding the problem, and just
+restart from the beginning whatever complex task you were up to. In fact,
+at this point, you can just boot. Go ahead, it's fast!
+    --rose@think.com, Pros and Cons of Suns
+      https://www.dourish.com/goodies/suns-boot-fast.html
