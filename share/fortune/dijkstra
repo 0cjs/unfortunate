@@ -204,3 +204,18 @@ classified as a fatal disease.
 program he composes, but the class of possible computations that may
 be evoked by it, the "production" of which he delegates to the machine.
     --Edsger Dijkstra, EWD316 (1971) Ch. 2
+%
+
+I feel somewhat guilty when I have suggested that the distinction or
+introduction of "different levels of abstraction" allow you to think about
+only one level at a time, ignoring completely the other levels. This is not
+true. You are trying to organize your thoughts; that is, you are seeking to
+arrange matters in such a way that you can concentrate on some portion, say
+with 90% of your conscious thinking, while the rest is temporarily moved
+away somewhat towards the background of your mind. But that is something
+quite different from "ignoring completely": you allow yourself temporarily
+to ignore details, but some overall appreciation of what is supposed to be
+or to come there continues to play a vital role. You remain alert for
+little red lamps that suddenly start flickering in the corners of your eye.
+    --Edsger Dijkstra, personal communication to Donald E. Knuth, 1973-01-03
+      Quoted in "Structured Programming with go to Statements"
