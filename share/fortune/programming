@@ -851,3 +851,8 @@ class distinction in the 1980s, but I rather think we did.
     --Graham Nelson, "New Tricks for an Old Z-Machine, Part 2"
       https://www.filfre.net/2019/11/new-tricks-for-an-old-z-machine-part-2
       -hacking-deeper-or-follies-of-graham-nelsons-youth/
+%
+I have felt for a long time that a talent for programming consists largely
+of the ability to switch readily from microscopic to macroscopic views of
+things, i.e., to change levels of abstraction fluently.
+    -— Donald Knuth, "Structured Programming with go to Statements"
