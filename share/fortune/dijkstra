@@ -247,3 +247,14 @@ discipline!
     --Edsger Dijkstra, personal communication to Donald E. Knuth, 1973-01-03
       Quoted in "Structured Programming with go to Statements"
       https://dl.acm.org/doi/pdf/10.1145/356635.356640
+%
+Indeed, Dijkstra's original article which gave Structured Programming its
+name never mentions go to statements at all; he directed attention to the
+critical question, "For what program structures can we give correctness
+proofs without undue labor, even if the programs get large?" By correctness
+proofs he explained that he does not mean formal derivations from axioms,
+he means any sort of proof (formal or informal) that is "sufficiently
+convincing"; and a proof really means an understanding. By program
+structure he means data structure as well as control structure.
+    -— Donald Knuth, "Structured Programming with go to Statements"
+       https://dl.acm.org/doi/pdf/10.1145/356635.356640
