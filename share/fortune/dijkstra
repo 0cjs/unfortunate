@@ -222,6 +222,7 @@ or to come there continues to play a vital role. You remain alert for
 little red lamps that suddenly start flickering in the corners of your eye.
     --Edsger Dijkstra, personal communication to Donald E. Knuth, 1973-01-03
       Quoted in "Structured Programming with go to Statements"
+      https://dl.acm.org/doi/pdf/10.1145/356635.356640
 %
 Therefore, I have not focused my attention on the question "How do we prove
 the correctness of a given program?" but on the questions "for what program
@@ -237,3 +238,12 @@ tasks I have finally succeeded in constructing a program by analyzing how a
 proof could be given that a class of computations would satisfy certain
 requirements: from the requirements of the proof the program followed.
     --Edsger Dijkstra, EWD268 (August 1969)
+%
+Please don't fall into the trap of believing that I am terribly dogmatical
+about [the go to statement]. I have the uncomfortable feeling that others
+are making a religion out of it, as if the conceptual problems of
+programming could be solved by a single trick, by a simple form of coding
+discipline!
+    --Edsger Dijkstra, personal communication to Donald E. Knuth, 1973-01-03
+      Quoted in "Structured Programming with go to Statements"
+      https://dl.acm.org/doi/pdf/10.1145/356635.356640
