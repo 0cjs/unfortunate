@@ -209,7 +209,6 @@ program he composes, but the class of possible computations that may
 be evoked by it, the "production" of which he delegates to the machine.
     --Edsger Dijkstra, EWD316 (1971) Ch. 2
 %
-
 I feel somewhat guilty when I have suggested that the distinction or
 introduction of "different levels of abstraction" allow you to think about
 only one level at a time, ignoring completely the other levels. This is not
