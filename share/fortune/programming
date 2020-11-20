@@ -887,3 +887,34 @@ somehow be able to express themselves lucidly and clearly in comments.
 A programmer who cannot explain their ideas clearly in natural
 language is incapable of writing readable code.
     --Tim Daly, Axiom readme, https://github.com/daly/axiom
+%
+Language Myths. We want a language for writing reliable code.
+
+NO! Most programmers, most of the time, scream in horror when they have to
+do something extra for reliability, dependability, maintainability, all the
+good stuff. And most programmers don't actually care. They just ship when
+they are told to ship. I wish we were in a field with general
+professionalsim but I don't see much sign of it. This is not good.
+    --Bjarne Stroustrup, "What - if anything have we learned from C++" 2014-05
+      https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014/Keynote
+%
+Writing is nature's way of letting you know how sloppy your thinking is.
+To think you have to write. If you're thinking without writing, you only
+think you're thinking.
+    --Leslie Lamport, "Thinking for Programmers", 2014
+      http://channel9.msdn.com/Events/Build/2014/3-642
+%
+In my life as an architect, I find that the single thing which inhibits
+young professionals, new students most severely, is their acceptance of
+standards that are too low. If I ask a student whether her design is as
+good as Chartres, she often smiles tolerantly at me as if to say, "Of
+course not, that isn't what I am trying to do...I could never do that."
+
+Then, I express my disagreement, and tell her: "That standard must be our
+standard. If you are going to be a builder, no other standard is
+worthwhile."
+    --Christopher Alexander, May 1996 in (Patterns of Software, Gabriel)
+%
+You cannot teach beginners top-down programming, because they don't know
+which end is up.
+    --C.A.R. Hoare
