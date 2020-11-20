@@ -868,4 +868,8 @@ eraser of the type sold in architectural and drafting supply houses will
 work wonders; for about $35 you'll get a tool which can double as a wire
 wrap gun if you jury rig an appropriate bit to fit the collet intended for
 the eraser.
-    —"Assembling Programs by Hand", BYTE 1976-03 p.52
+    --"Assembling Programs by Hand", BYTE 1976-03 p.52
+%
+IBM had a standard for documentation: it has to be written at the 8th grade
+level. Our system uses univariant polynomials over the field of integers.
+    --Timothy Daly, discussing Axiom https://youtu.be/Av0PQDVTP4A?t=201
