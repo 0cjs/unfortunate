@@ -11,3 +11,16 @@ of Intelligent Life in the Universe_][tomsear] by Jane Wagner, linking to a
 [tomquotwb]: https://web.archive.org/web/20120306163127/http://www.lilytomlin.com/lily/quotes.htm
 [tomsear]: https://en.wikipedia.org/wiki/The_Search_for_Signs_of_Intelligent_Life_in_the_Universe
 [paulpump]: https://web.archive.org/web/20120107091143/http://www.lilytomlin.com/char/paul/paulpump.htm
+
+### misc
+
+Gorka, what you do for free: found at [axiom-readme].
+
+[axiom-readme]: https://github.com/daly/axiom
+
+
+### Programming
+
+Wilson, standards of proof: found at [axiom-readme].
+
+Henney, incomprehensible code: found at [axiom-readme].
