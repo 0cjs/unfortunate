@@ -922,3 +922,10 @@ which end is up.
 I don't quite know how to put this, but our entire field is bad at
 what we do, and if you rely on us, everyone will die.
     --Software Engineer, in https://xkcd.com/2030/
+%
+Open source code itself is not a common pool resource but a positive
+externality of its underlying contributor community. Users can consume, or
+"appropriate," code at zero marginal cost, because what the commons actually
+manages is not code but attention. When developers make contributions, they
+appropriate this attention from the commons.
+    --Nadia Eghbal, _Working in Public_ (2020)

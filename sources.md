@@ -23,15 +23,13 @@ Lamport, sloppy: [_Specifying Systems_], quoted on [axiom why lit].
 
 Gorka, what you do for free: found at [axiom-readme].
 
-[axiom-readme]: https://github.com/daly/axiom
-
-
 ### Programming
 
-Wilson, standards of proof: found at [axiom-readme].
+- Wilson, standards of proof: found at [axiom-readme].
+- Henney, incomprehensible code: found at [axiom-readme].
+- Hoare, top-down programming: quoted in [_Let Over Lambda_ ch.5].
+- Eghbal, "Open source is...a positive externality...." _Working in Public:
+  The Making and Maintenance of Open Source Software_. Stripe Press, 2020.
 
-Henney, incomprehensible code: found at [axiom-readme].
-
-Hoare, top-down programming: quoted in [Let Over Lambda ch.5]
-
-[Let Over Lambda ch.5]: https://letoverlambda.com/index.cl/guest/chap5.html
+[axiom-readme]: https://github.com/daly/axiom
+[_Let Over Lambda_ ch.5]: https://letoverlambda.com/index.cl/guest/chap5.html
