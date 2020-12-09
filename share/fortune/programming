@@ -324,7 +324,7 @@ computer, a Rolls-Royce would today cost $100, get a million miles per
 gallon, and explode once a year, killing everyone inside.
     --Robert X. Cringely
 %
-I’ve noticed lately that the paranoid fear of computers becoming
+I've noticed lately that the paranoid fear of computers becoming
 intelligent and taking over the world has almost entirely disappeared
 from the common culture. Near as I can tell, this coincides with the
 release of MS-DOS.
@@ -335,24 +335,24 @@ of bricks piled on top of each other, with no structural integrity, but
 just done by brute force and thousands of slaves.
     --Alan Kay
 %
-I’ve finally learned what ‘upward compatible’ means. It means we
+I've finally learned what 'upward compatible' means. It means we
 get to keep all our old mistakes.
     --Dennie van Tassel
 %
 There are two major products that come out of Berkeley: LSD and UNIX.
-We don’t believe this to be a coincidence.
+We don't believe this to be a coincidence.
     --Jeremy S. Anderson
 %
 19 Jan 2038 at 3:14:07 AM
-    --End of the word according to Unix–2^32 seconds after January 1, 1970
+    --End of the world according to Unix--2^32 seconds after January 1, 1970
 %
-Every operating system out there is about equal… We all suck.
+Every operating system out there is about equal... We all suck.
     --Microsoft senior vice president Brian Valentine describing
       the state of the art in OS security, 2003
 %
 Microsoft has a new version out, Windows XP, which according to everybody
-is the ‘most reliable Windows ever.‘  To me, this is like saying
-that asparagus is ‘the most articulate vegetable ever.‘
+is the 'most reliable Windows ever.' To me, this is like saying that
+asparagus is 'the most articulate vegetable ever.'
     --Dave Barry
 %
 The most amazing achievement of the computer software industry is its
@@ -380,7 +380,7 @@ The function of good software is to make the complex appear to be simple.
 Any fool can use a computer.  Many do.
     --Ted Nelson
 %
-There are only two industries that refer to their customers as ‘users’.
+There are only two industries that refer to their customers as 'users'.
     --Edward Tufte
 %
 Most of you are familiar with the virtues of a programmer.  There are
@@ -388,10 +388,10 @@ three, of course: laziness, impatience, and hubris.
     --Larry Wall
 %
 The trouble with programmers is that you can never tell what a programmer
-is doing until it’s too late.
+is doing until it's too late.
     --Seymour Cray
 %
-That’s the thing about people who think they hate computers.  What they
+That's the thing about people who think they hate computers.  What they
 really hate is lousy programmers.
     --Larry Niven
 %
@@ -400,8 +400,8 @@ any more than studying brushes and pigment can make somebody an expert
 painter.
     --Eric Raymond
 %
-A hacker on a roll may be able to produce–in a period of a few
-months–something that a small development group (say, 7-8 people)
+A hacker on a roll may be able to produce--in a period of a few
+months--something that a small development group (say, 7-8 people)
 would have a hard time getting together over a year.  IBM used to report
 that certain programmers might be as much as 100 times as productive as
 other workers, or more.
@@ -418,9 +418,9 @@ lathe operator, but a great writer of software code is worth 10,000
 times the price of an average software writer.
     --Bill Gates
 %
-Don’t worry if it doesn’t work right.  If everything did, you’d
+Don't worry if it doesn't work right.  If everything did, you'd
 be out of a job.
-    --Mosher’s Law of Software Engineering
+    --Mosher's Law of Software Engineering
 %
 Writing code has a place in the human hierarchy worth somewhere above
 grave robbing and beneath managing.
@@ -440,11 +440,11 @@ There are only two kinds of programming languages: those people always
 bitch about and those nobody uses.
     --Bjarne Stroustrup
 %
-I think Microsoft named .Net so it wouldn’t show up in a Unix directory
+I think Microsoft named .Net so it wouldn't show up in a Unix directory
 listing.
     --Oktal
 %
-There is no programming language–no matter how structured–that will
+There is no programming language--no matter how structured--that will
 prevent programmers from making bad programs.
     --Larry Flon
 %
@@ -453,14 +453,14 @@ Park, that is.
     --Larry Wall
 %
 Fifty years of programming language research, and we end up with C++?
-    --Richard A. O’Keefe
+    --Richard A. O'Keefe
 %
 One of the main causes of the fall of the Roman Empire was
-that–-lacking zero-–they had no way to indicate successful
+that--lacking zero--they had no way to indicate successful
 termination of their C programs.
     --Robert Firth
 %
-Java is, in many ways, C++–.
+Java is, in many ways, C++-.
     --Michael Feldman
 %
 If Java had true garbage collection, most programs would delete themselves
@@ -474,9 +474,9 @@ whose products are worth even less.
 Good code is its own best documentation.
     --Steve McConnell
 %
-Any code of your own that you haven’t looked at for six or more months
+Any code of your own that you haven't looked at for six or more months
 might as well have been written by someone else.
-    --Eagleson’s Law
+    --Eagleson's Law
 %
 The first 90% of the code accounts for the first 90% of the development
 time.  The remaining 10% of the code accounts for the other 90% of the
@@ -484,13 +484,13 @@ development time.
     --Tom Cargill, Bell Labs
 %
 As soon as we started programming, we found to our surprise that it
-wasn’t as easy to get programs right as we had thought.  Debugging had
+wasn't as easy to get programs right as we had thought.  Debugging had
 to be discovered.  I can remember the exact instant when I realized that
 a large part of my life from then on was going to be spent in finding
 mistakes in my own programs.
     --Maurice Wilkes discovers debugging, 1949
 %
-Programming is like sex: one mistake and you’re providing support for
+Programming is like sex: one mistake and you're providing support for
 a lifetime.
     --Michael Sinz
 %
@@ -508,8 +508,8 @@ like automobiles, but are mathematical expressions.
     --Leslie Lamport, How to Tell a Program from an Automobile
       http://research.microsoft.com/en-us/um/people/lamport/pubs/pubs.html
 %
-It’s really surprising how often my program just works as long as it
-type-checks – it’s contrary to all my intuition about programming,
+It's really surprising how often my program just works as long as it
+type-checks - it's contrary to all my intuition about programming,
 but there it is.
     --"bill a", on Haskell; comment on
       http://www.alsonkemp.com/haskell/reflections-on-leaving-haskell/
@@ -539,7 +539,7 @@ The intention is to [use] laziness to avoid unnecessary work.
     --https://hackage.haskell.org/package/gitlib-3.1.1/docs/Git-Tutorial.html
 %
 SRE teams should push back when accidental complexity is introduced
-into the systems they’re in charge of. Besides, they should continue
+into the systems they're in charge of. Besides, they should continue
 to eliminate complexity over time.
     --Mathias Lafeldt, "Simplicity: A Prerequisite for Reliability"
       https://medium.com/production-ready/simplicity-a-prerequisite-for-reliability-8d000f8d18df
@@ -618,7 +618,7 @@ code was changed in the first place.
     --Markus Oberlehner, "Git, the pedantic way"
       https://markus.oberlehner.net/blog/git-the-pedantic-way
 %
-On two occasions I have been asked, — "Pray, Mr. Babbage, if you put
+On two occasions I have been asked, - "Pray, Mr. Babbage, if you put
 into the machine wrong figures, will the right answers come out?" In
 one case a member of the Upper, and in the other a member of the Lower,
 House put this question. I am not able rightly to apprehend the kind of
@@ -682,11 +682,11 @@ If it hurts, do it more often.
     --Martin Fowler, https://martinfowler.com/bliki/FrequencyReducesDifficulty
 %
 I dislike the implicit declaration of lexicals because it tends to defeat
-the primary use of them, namely, catching typos. It’s just too easy to
-declare additional variable names by accident. It’s also too easy to
+the primary use of them, namely, catching typos. It's just too easy to
+declare additional variable names by accident. It's also too easy to
 broaden the scope of a variable by accident. You might have a bunch of
 separate subroutines each with their own lexical, and suddenly find that
-they’re all the same variable because you accidentally used the same
+they're all the same variable because you accidentally used the same
 variable name in the module initialization code....
   And when it comes down to it, I believe that declarations with `my`
 are properly Huffman encoded.
@@ -747,26 +747,26 @@ It is conceded that TECO's error messages are not overly informative.
     --Paraphrase of p.112 of _MCS6500 Microcomputer Family Programming
       Manual_ (MOS Technology, 1976-01)
 %
-When I’m trying to understand someone else’s code I tend to find the
+When I'm trying to understand someone else's code I tend to find the
 best way is to refactor or even rewrite it. I start by just formatting
 it to be the way I like. Then I start changing names that seem unclear
-or poorly chosen. And then I start mucking with the structure. There’s
+or poorly chosen. And then I start mucking with the structure. There's
 nothing I like better than discovering a big chunk of dead code I can
-delete and not have to worry about understanding. Usually when I’m
+delete and not have to worry about understanding. Usually when I'm
 done with that I not only have a piece of code that I think is much
 better but I also can understand the original.
     --Peter Seibel, interview in _Lisp Hackers_
       https://leanpub.com/lisphackers/read#peter-seibel-usa
 %
 In a situation where code actually has to be produced, nobody should
-be allowed in the system who doesn’t write some given number of lines
+be allowed in the system who doesn't write some given number of lines
 of code per month. I think that one of the major problems with the
 very large programming projects has been the lack of competence in
 programming which one observes as soon as one goes above the very
 bottom level. People begin to talk in vague general terms using words
 like 'module', and very rarely ever get down to the detail of what a
 module actually is. They use phrases like 'communicate across modules
-by going up and then down' — all of the vague administratese which in
+by going up and then down' - all of the vague administratese which in
 a sense must cover up a native and total incompetence.
     --Alan J. Perlis, NATO Software Engineering Conference 1968 (p.88)
       http://homepages.cs.ncl.ac.uk/brian.randell/NATO/nato1968.PDF
@@ -775,7 +775,7 @@ McClure: I know of very few programming establishments where supervisors
   actually bother to read the code produced by their staff and make some
   effort to understand it. I believe that this is absolutely essential.
 Buxton: I know of very few programming establishments in which the
-  supervisor is capable of reading code — some present company excepted!
+  supervisor is capable of reading code - some present company excepted!
     --NATO Software Engineering Conference 1968 (p.89)
       http://homepages.cs.ncl.ac.uk/brian.randell/NATO/nato1968.PDF
 %
@@ -792,7 +792,7 @@ Data General machine.
 %
 Whenever I've wondered about how something in Erlang works, I have
 never been disappointed in the answer. I almost always leave with the
-impression that the designers did the “right thing”. I suppose this is
+impression that the designers did the "right thing." I suppose this is
 in contrast to Java, which does the pedantic thing, Perl, which does
 the kludgy thing, Ruby, which has two independent implementations of
 the wrong thing, and C, which doesn't do anything.
@@ -816,12 +816,12 @@ number of axles of a train must not be 256 axles.)
     --Swiss Railway Regulations
       Zugvorbereitung R 300.5 Zugbildung R I-30111 §4.7.4
 %
-Monday’s build ran short of space,
-Tuesday’s build fell on its face,
-Wednesday’s build was full of woe,
-Thursday’s build had far to go,
-Friday’s build was unforgiving,
-Saturday’s build was barely living,
+Monday's build ran short of space,
+Tuesday's build fell on its face,
+Wednesday's build was full of woe,
+Thursday's build had far to go,
+Friday's build was unforgiving,
+Saturday's build was barely living,
 But the build that was made on Sunday was bonny and wonderful
 and great and NO CARRIER
     --Landon Dyer, http://www.dadhacker.com/blog/?p=1731
@@ -841,8 +841,8 @@ stored in them will be altered or lost if the power is shut off. If you
 want to save a program, leave the power on.
     --The Radio-Electronics Mark-8 Minicomputer (RE, 1974)
 %
-But [the ZX Spectrum] did have an enormous amount of RAM — or rather, it
-didn’t consume all of that precious RAM on screen memory. The way that it
+But [the ZX Spectrum] did have an enormous amount of RAM - or rather, it
+didn't consume all of that precious RAM on screen memory. The way that it
 avoided this was a distasteful hack, but also a stroke of genius, making
 the Spectrum a perfect games machine. As a result, those of my friends
 whose fathers knew anything about computers had BBC Micros, and the rest
@@ -855,7 +855,7 @@ class distinction in the 1980s, but I rather think we did.
 I have felt for a long time that a talent for programming consists largely
 of the ability to switch readily from microscopic to macroscopic views of
 things, i.e., to change levels of abstraction fluently.
-    -— Donald Knuth, "Structured Programming with go to Statements"
+    -- Donald Knuth, "Structured Programming with go to Statements"
        https://dl.acm.org/doi/pdf/10.1145/356635.356640
 %
 To replace programmers with Robots, clients will have to accurately
