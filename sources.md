@@ -36,3 +36,9 @@ Gorka, what you do for free: found at [axiom-readme].
 [_Let Over Lambda_ ch.5]: https://letoverlambda.com/index.cl/guest/chap5.html
 [axiom-readme]: https://github.com/daly/axiom
 [bogatin20]: https://www.altium.com/live-conference/altiumlive-2018-annual-pcb-design-summit/sessions/value-white-space
+
+### security-maxims
+
+- Nat Howard, "as bad as it can possibly be," quoted by [ranum-20m22]
+
+[ranum-20m22]: https://freethoughtblogs.com/stderr/2020/12/22/more-about-the-solarwinds-breach/
