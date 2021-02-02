@@ -23,6 +23,12 @@ Lamport, sloppy: [_Specifying Systems_], quoted on [axiom why lit].
 
 Gorka, what you do for free: found at [axiom-readme].
 
+### philosophy
+
+- Leibovitz, ["Death of a Ladies' Man"][dlm]
+
+[dlm]: https://www.tabletmag.com/sections/arts-letters/articles/phil-spector-leonard-cohen-liel-leibovitz
+
 ### programming
 
 - Wilson, standards of proof: found at [axiom-readme].
