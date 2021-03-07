@@ -943,3 +943,9 @@ as you treat the signal path.
 11. The most expensive rule is the one that delays the product ship.
   --Eric Bogatin, _Signal and Power Integrity—Simplified_
     (Top Ten Signal Integrity Principles)
+%
+Save the environment: use continuation passing style!
+    --Mike Stay
+%
+Q: What does the B stand for in Benoit B. Mandelbrot?
+A: Benoit B. Mandelbrot.

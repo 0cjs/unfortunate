@@ -40,10 +40,13 @@ Lamport, sloppy: [_Specifying Systems_], quoted on [axiom why lit].
   The Making and Maintenance of Open Source Software_. Stripe Press, 2020.
 - Archambault, "Engineering is Greek for tradeoff analysis."
   Quoted by Eric Bogatin in [_The Value of the White Space_][bogatin20]
+- Mike Stay, save the environment from [[mo 1083]].
 
 [_Let Over Lambda_ ch.5]: https://letoverlambda.com/index.cl/guest/chap5.html
 [axiom-readme]: https://github.com/daly/axiom
 [bogatin20]: https://www.altium.com/live-conference/altiumlive-2018-annual-pcb-design-summit/sessions/value-white-space
+[[mo 1083]]: https://web.archive.org/web/20190430085721/https://mathoverflow.net/questions/1083/do-good-math-jokes-exist
+
 
 ### security-maxims
 
