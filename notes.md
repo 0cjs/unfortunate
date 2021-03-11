@@ -26,6 +26,7 @@ Lamport, sloppy: [_Specifying Systems_], quoted on [axiom why lit].
 - Gorka, what you do for free: found at [axiom-readme].
 - Stephen Fry on American vs. British comedy:
   <https://www.youtube.com/watch?v=8k2AbqTBxao>
+- Hamming, knowing what you are doing, found at <http://worrydream.com/dbx/>
 
 ### philosophy
 
