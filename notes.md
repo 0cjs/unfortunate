@@ -27,6 +27,9 @@ Lamport, sloppy: [_Specifying Systems_], quoted on [axiom why lit].
 - Stephen Fry on American vs. British comedy:
   <https://www.youtube.com/watch?v=8k2AbqTBxao>
 - Hamming, knowing what you are doing, found at <http://worrydream.com/dbx/>
+- Philip K. Dick, "Reality is..." from "How to Build a Universe That
+  Doesn't Fall Apart Two Days Later," 1978.
+  <https://urbigenous.net/library/how_to_build.html>
 
 ### philosophy
 
