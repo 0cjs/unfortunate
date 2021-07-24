@@ -30,6 +30,11 @@ Lamport, sloppy: [_Specifying Systems_], quoted on [axiom why lit].
 - Philip K. Dick, "Reality is..." from "How to Build a Universe That
   Doesn't Fall Apart Two Days Later," 1978.
   <https://urbigenous.net/library/how_to_build.html>
+- "To have a child is to give fate a hostage." Attributed to John F.
+  Kennedy in Anthony Bourdain, _Medium Raw: A Bloody Valentine to the World
+  of Food and the People who Cook_. But much earlier, Francis Bacon: "he
+  that hath wife and children hath given hostages to fortune; for they are
+  impediments to great enterprises, either of virtue of mischief."
 
 ### philosophy
 
