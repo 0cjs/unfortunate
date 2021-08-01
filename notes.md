@@ -35,6 +35,11 @@ Lamport, sloppy: [_Specifying Systems_], quoted on [axiom why lit].
   of Food and the People who Cook_. But much earlier, Francis Bacon: "he
   that hath wife and children hath given hostages to fortune; for they are
   impediments to great enterprises, either of virtue of mischief."
+- Tim Harford, "A simple untruth..." and "Agnotology." From "The problem
+  with facts," _Financial Times_ 2017-03-09. Quoted by Adrian Nathan West,
+  "What Does a Fact Look Like?", _The Baffler_ 2021-06-16.
+  <https://www.ft.com/content/eef2e2f8-0383-11e7-ace0-1ce02ef0def9>
+  <https://thebaffler.com/latest/what-does-a-fact-look-like-west>
 
 ### philosophy
 
