@@ -40,6 +40,8 @@ Lamport, sloppy: [_Specifying Systems_], quoted on [axiom why lit].
   "What Does a Fact Look Like?", _The Baffler_ 2021-06-16.
   <https://www.ft.com/content/eef2e2f8-0383-11e7-ace0-1ce02ef0def9>
   <https://thebaffler.com/latest/what-does-a-fact-look-like-west>
+- "Barn doors for example." Bill Herd on C128
+  <https://www.reddit.com/r/c128/comments/682da4/c128_ama_from_bil_herd/dgwr4h1>
 
 ### philosophy
 
