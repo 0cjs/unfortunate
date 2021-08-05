@@ -42,6 +42,11 @@ Lamport, sloppy: [_Specifying Systems_], quoted on [axiom why lit].
   <https://thebaffler.com/latest/what-does-a-fact-look-like-west>
 - "Barn doors for example." Bill Herd on C128
   <https://www.reddit.com/r/c128/comments/682da4/c128_ama_from_bil_herd/dgwr4h1>
+- "black studies as such," CLR James. Cannot find original 1969 article
+  with quote. Quoted in:
+  <https://socialistworker.co.uk/art/36695/How+Marxist+historian+CLR+James+understood+racism+and+revolutions>
+  and from another source perhaps quoted in
+  <https://www.theguardian.com/news/2021/aug/05/paul-gilroy-britain-scholar-race-humanism-vital-guide-age-of-crisis>
 
 ### philosophy
 
