@@ -19,6 +19,7 @@ of Intelligent Life in the Universe_][tomsear] by Jane Wagner, linking to a
 - Lamport, sloppy: [_Specifying Systems_], quoted on [axiom why lit].
 - Bhāskara: mentioned in lecture by Sarah Hart, "Where do Mathematical
   Symbols Come From?" <https://youtu.be/Edewyp87W-Q?t=1482>
+- "pre-16th century notation": Hart lecture above.
 
 [_Specifying Systems_]: https://www.microsoft.com/en-us/research/publication/specifying-systems-the-tla-language-and-tools-for-hardware-and-software-engineers/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Flamport%2Ftla%2Fbook-02-08-08.pdf
 [axiom why lit]: http://axiom-developer.org/axiom-website/documentation.html
