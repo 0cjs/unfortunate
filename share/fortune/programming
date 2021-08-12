@@ -966,3 +966,7 @@ of the phone call.
 %
 [Y]ou know you've had a bad week when you start making ASN.1 jokes!
     --Stephen J. Turnbull, https://lists.tlug.jp/ML/2101/msg00026.html
+%
+Doing a bad job isn't in scope for [the standard] either, since the
+application programmer can do it in a few LOC.
+    --Stephen J. Turnbull, https://lists.tlug.jp/ML/2108/msg00019.html
