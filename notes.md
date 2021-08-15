@@ -14,6 +14,18 @@ of Intelligent Life in the Universe_][tomsear] by Jane Wagner, linking to a
 [tomsear]: https://en.wikipedia.org/wiki/The_Search_for_Signs_of_Intelligent_Life_in_the_Universe
 [paulpump]: https://web.archive.org/web/20120107091143/http://www.lilytomlin.com/char/paul/paulpump.htm
 
+### dijkstra
+
+- Simplicity. Some argument about this at [wikiquote][wq dijkstra] because
+  Hoare had "The price of reliability is the pursuit of the utmost
+  simplicity" in his 1980 Turing Award lecture ["The Emperor's Old
+  Clothes"][hoare80], but the transcription of 1975 [ewd498] mentions it as
+  a "handwritten annotation."
+
+[wq dijkstra]: https://en.wikiquote.org/wiki/Talk:Edsger_W._Dijkstra#Simplicity_is_prerequisite_for_reliability
+[hoare80]: http://lambda.cs.yale.edu/cs422/doc/hoare.pdf
+[ewd498]: http://www.cs.virginia.edu/~evans/cs655/readings/ewd498.html
+
 ### math
 
 - Lamport, sloppy: [_Specifying Systems_], quoted on [axiom why lit].

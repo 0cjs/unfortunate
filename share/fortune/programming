@@ -49,6 +49,10 @@ The way to shorten programs is to use procedures, not to omit vital
 declarative information.
     --C.A.R. Hoare, The Emperor's Old Clothes
 %
+At first I hoped that such a technically unsound project would collapse but
+I soon realized it was doomed to success.
+    --C.A.R. Hoare, The Emperor's Old Clothes
+%
 So, learning Python and Haskell has demoralised me and encouraged
 me to write code that is bizarre and difficult to understand...
     --Luke Plant,
