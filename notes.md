@@ -69,6 +69,20 @@ of Intelligent Life in the Universe_][tomsear] by Jane Wagner, linking to a
 
 [dlm]: https://www.tabletmag.com/sections/arts-letters/articles/phil-spector-leonard-cohen-liel-leibovitz
 
+### politics
+
+- Stenner & Haidt, "Authoritarianism is Not a Momentary Madness," essay
+  from _Can It Happen Here_, quoted in [Pacific Standard article][stenner].
+  - "About a third of white responders acrosss 29 liberal democracies
+    proved to be authoritarian to some degree."
+  - "The things that multiculturalists believe will help people appreciate
+    and thrive in democracy—appreciating difference, talking about
+    difference, displaying and applauding difference—are the very
+    conditions that encourage authoritarians not to heights of tolerance,
+    but to their intolerant extremes."
+
+[stenner]: https://psmag.com/news/authoritarianism-the-terrifying-trait-that-trump-triggers
+
 ### programming
 
 - Wilson, standards of proof: found at [axiom-readme].
