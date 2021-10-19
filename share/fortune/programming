@@ -978,3 +978,7 @@ application programmer can do it in a few LOC.
 "Oh no!"  "I can only imagine"  "I bet."
     --LinkedIn chat's suggested responses to the message,
       "Still somewhat baffled by Haskell."
+%
+Machine learning solves problems that we don't understand by creating
+programs we don't understand.
+    --Leslie Lamport
