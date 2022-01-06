@@ -982,3 +982,7 @@ application programmer can do it in a few LOC.
 Machine learning solves problems that we don't understand by creating
 programs we don't understand.
     --Leslie Lamport
+%
+Relational algebra and relational calculus stand out as exceptional success
+stories in sub-Turing models of computation.
+    --Matt Might, https://matt.might.net/articles/what-cs-majors-should-know/
