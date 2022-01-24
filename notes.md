@@ -80,8 +80,11 @@ of Intelligent Life in the Universe_][tomsear] by Jane Wagner, linking to a
     difference, displaying and applauding difference—are the very
     conditions that encourage authoritarians not to heights of tolerance,
     but to their intolerant extremes."
+- Boris Johnson, "...Tory party's soul...." Quoted in _The Atlantic,_ "The
+  Tears of a Clown"[atl2201]
 
 [stenner]: https://psmag.com/news/authoritarianism-the-terrifying-trait-that-trump-triggers
+[atl2201]: https://www.theatlantic.com/international/archive/2022/01/boris-johnson-party-pressure/621325/
 
 ### programming
 
