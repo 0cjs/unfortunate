@@ -993,3 +993,14 @@ it just meant that it passed the test jig.
     --Bil Herd, https://youtu.be/2wULKtIE-SI&t=566s 09:26
 %
 The plural of regex is regrets.
+%
+Rules for Building High-Performance Code
+* Know where you’re going.
+* Make a big map.
+* Make lots of little maps.
+* Know the territory.
+* Know when it matters.
+* Always consider the alternatives.
+* Know how to turn on the juice.
+
+    --Michael Abrash, https://github.com/jagregory/abrash-black-book
