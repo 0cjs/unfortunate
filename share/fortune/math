@@ -161,3 +161,15 @@ Tell me, beautiful girl, how many bees were in the swarm?
 %
 1Zp.5Rm.6
     --pre-16th century mathemtatical notation for 1x² + 5x - 6
+%
+From: https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi#Algebra
+al-Khwarizmi says:
+    If some one says: "You divide ten into two parts: multiply the one by
+    itself; it will be equal to the other taken eighty-one times."
+    Computation: You say, ten less a thing, multiplied by itself, is a
+    hundred plus a square less twenty things, and this is equal to
+    eighty-one things. Separate the twenty things from a hundred and a
+    square, and add them to eighty-one. It will then be a hundred plus a
+    square, which is equal to a hundred and one roots....
+Modern notation:
+    (10 - x)² = 81x,   100 + x² - 20x = 81x,   x² + 100 = 101x
