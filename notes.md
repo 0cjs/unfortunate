@@ -62,6 +62,9 @@ of Intelligent Life in the Universe_][tomsear] by Jane Wagner, linking to a
   <https://socialistworker.co.uk/art/36695/How+Marxist+historian+CLR+James+understood+racism+and+revolutions>
   and from another source perhaps quoted in
   <https://www.theguardian.com/news/2021/aug/05/paul-gilroy-britain-scholar-race-humanism-vital-guide-age-of-crisis>
+- "...world is full of narcissists..." David Brooks, "Truly Humbled to Be
+  the Author of This Article," The Atlantic 2022-07-03
+  <https://www.theatlantic.com/ideas/archive/2022/07/humility-tweet-self-promotion/661444/>
 
 ### philosophy
 
