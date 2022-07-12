@@ -170,6 +170,12 @@ Should array indices start at 0 or 1? My compromise of 0.5 was rejected
 without, I thought, proper consideration.
     --Stan Kelly-Bootle
 %
+Symbol: KB
+Name: Kelly-Bootle Standard Unit
+Size: 1012 bytes
+Notes: Compromise between 1000 and 1024 bytes
+    --https://xkcd.com/394/
+%
 You should name a variable using the same care with which you name a
 first-born child.
     --James O. Coplien
