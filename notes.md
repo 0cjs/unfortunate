@@ -70,6 +70,8 @@ of Intelligent Life in the Universe_][tomsear] by Jane Wagner, linking to a
 - "...world is full of narcissists..." David Brooks, "Truly Humbled to Be
   the Author of This Article," The Atlantic 2022-07-03
   <https://www.theatlantic.com/ideas/archive/2022/07/humility-tweet-self-promotion/661444/>
+- "thinking about what you're doing"
+  <https://archive.org/details/communicatingthr00wilk/page/n4/mode/1up>
 
 ### philosophy
 
