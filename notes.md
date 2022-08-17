@@ -76,8 +76,10 @@ of Intelligent Life in the Universe_][tomsear] by Jane Wagner, linking to a
 ### philosophy
 
 - Leibovitz, ["Death of a Ladies' Man"][dlm]
+- Shulman, quoted in [Broken Ties] @1:10:12
 
 [dlm]: https://www.tabletmag.com/sections/arts-letters/articles/phil-spector-leonard-cohen-liel-leibovitz
+[Broken Ties]: https://youtu.be/5qmQs2LbnaE?t=4212
 
 ### politics
 
