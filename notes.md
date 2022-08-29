@@ -94,9 +94,11 @@ of Intelligent Life in the Universe_][tomsear] by Jane Wagner, linking to a
     but to their intolerant extremes."
 - Boris Johnson, "...Tory party's soul...." Quoted in _The Atlantic,_ "The
   Tears of a Clown"[atl2201]
+- José María Arizmendiarrieta quotes from _Reflections_ at [ariz].
 
 [stenner]: https://psmag.com/news/authoritarianism-the-terrifying-trait-that-trump-triggers
 [atl2201]: https://www.theatlantic.com/international/archive/2022/01/boris-johnson-party-pressure/621325/
+[ariz]: http://www.laputaproject.com/images/uploaded/20160626/6360250877190692844348445.pdf
 
 ### programming
 
