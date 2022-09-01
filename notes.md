@@ -26,6 +26,18 @@ of Intelligent Life in the Universe_][tomsear] by Jane Wagner, linking to a
 [hoare80]: http://lambda.cs.yale.edu/cs422/doc/hoare.pdf
 [ewd498]: http://www.cs.virginia.edu/~evans/cs655/readings/ewd498.html
 
+### ideals
+
+- José María Arizmendiarrieta quotes from _Reflections_ at [ariz].
+- "Being realistic and pragmatic...." Translation in _Reflections__ is terible;
+  got a better one from @juanse_gcoop_arg in Patio Mattermost chat. Original:
+  - Ser realistas y pragmáticos no quiere decir renunciar a los ideales, que no
+    deben ser confundidos con quimeras y bellos sueños, sino aceptados como
+    objetivos a realizar.
+
+[ariz]: http://www.laputaproject.com/images/uploaded/20160626/6360250877190692844348445.pdf
+[pens]: https://arizmendiarrieta.org/wp-content/uploads/2017/09/pensamientos.pdf
+
 ### math
 
 - Lamport, sloppy: [_Specifying Systems_], quoted on [axiom why lit].
@@ -94,11 +106,9 @@ of Intelligent Life in the Universe_][tomsear] by Jane Wagner, linking to a
     but to their intolerant extremes."
 - Boris Johnson, "...Tory party's soul...." Quoted in _The Atlantic,_ "The
   Tears of a Clown"[atl2201]
-- José María Arizmendiarrieta quotes from _Reflections_ at [ariz].
 
 [stenner]: https://psmag.com/news/authoritarianism-the-terrifying-trait-that-trump-triggers
 [atl2201]: https://www.theatlantic.com/international/archive/2022/01/boris-johnson-party-pressure/621325/
-[ariz]: http://www.laputaproject.com/images/uploaded/20160626/6360250877190692844348445.pdf
 
 ### programming
 
