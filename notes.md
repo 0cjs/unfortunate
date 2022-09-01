@@ -89,9 +89,11 @@ of Intelligent Life in the Universe_][tomsear] by Jane Wagner, linking to a
 
 - Leibovitz, ["Death of a Ladies' Man"][dlm]
 - Shulman, quoted in [Broken Ties] @1:10:12
+- "Religion is an identity..." ["Peter"][guard220901]
 
 [dlm]: https://www.tabletmag.com/sections/arts-letters/articles/phil-spector-leonard-cohen-liel-leibovitz
 [Broken Ties]: https://youtu.be/5qmQs2LbnaE?t=4212
+[guard220901]: https://www.theguardian.com/lifeandstyle/2022/sep/01/dining-across-the-divide-got-home-googled-bromance
 
 ### politics
 
