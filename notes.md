@@ -29,8 +29,9 @@ of Intelligent Life in the Universe_][tomsear] by Jane Wagner, linking to a
 ### ideals
 
 - José María Arizmendiarrieta quotes from _Reflections_ at [ariz].
-- "Being realistic and pragmatic...." Translation in _Reflections__ is terible;
-  got a better one from @juanse_gcoop_arg in Patio Mattermost chat. Original:
+- "Being realistic and pragmatic...." Translation in _Reflections__ is terible.
+  Got a better one from @juanse_gcoop_arg in Patio Mattermost chat, but the
+  current one is mine, based on Google Translate. Original:
   - Ser realistas y pragmáticos no quiere decir renunciar a los ideales, que no
     deben ser confundidos con quimeras y bellos sueños, sino aceptados como
     objetivos a realizar.
