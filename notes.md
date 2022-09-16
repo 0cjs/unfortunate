@@ -91,10 +91,13 @@ of Intelligent Life in the Universe_][tomsear] by Jane Wagner, linking to a
 - Leibovitz, ["Death of a Ladies' Man"][dlm]
 - Shulman, quoted in [Broken Ties] @1:10:12
 - "Religion is an identity..." ["Peter"][guard220901]
+- Seneca, ["On a Happy Life"][sen-hap] from [_Dialogues_][sen-dia]
 
 [dlm]: https://www.tabletmag.com/sections/arts-letters/articles/phil-spector-leonard-cohen-liel-leibovitz
 [Broken Ties]: https://youtu.be/5qmQs2LbnaE?t=4212
 [guard220901]: https://www.theguardian.com/lifeandstyle/2022/sep/01/dining-across-the-divide-got-home-googled-bromance
+[sen-hap]: https://standardebooks.org/ebooks/seneca/dialogues/aubrey-stewart/text/on-a-happy-life
+[sen-dia]: https://standardebooks.org/ebooks/seneca/dialogues/aubrey-stewart
 
 ### politics
 
