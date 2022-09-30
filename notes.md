@@ -26,6 +26,13 @@ of Intelligent Life in the Universe_][tomsear] by Jane Wagner, linking to a
 [hoare80]: http://lambda.cs.yale.edu/cs422/doc/hoare.pdf
 [ewd498]: http://www.cs.virginia.edu/~evans/cs655/readings/ewd498.html
 
+### economics
+
+- John Honovich quoted in Timothy McLaughlin, ["The Tech Site That Took On
+  China’s Surveillance State"][atl2209a], _The Atlantic._
+
+[atl2209a]: https://www.theatlantic.com/international/archive/2022/09/ipvm-journalism-research-chinese-surveillance-technology/671593/
+
 ### ideals
 
 - José María Arizmendiarrieta quotes from _Reflections_ at [ariz].
