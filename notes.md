@@ -119,9 +119,13 @@ of Intelligent Life in the Universe_][tomsear] by Jane Wagner, linking to a
     but to their intolerant extremes."
 - Boris Johnson, "...Tory party's soul...." Quoted in _The Atlantic,_ "The
   Tears of a Clown"[atl2201]
+- "You in Britian are Moscow in about 1988." Quoted in _The Guardian,_ "A
+  new series immerses us in Russia’s 90s trauma – and the human cost of
+  economic shock" by Marina Hyde. [[hyde220930]]
 
 [stenner]: https://psmag.com/news/authoritarianism-the-terrifying-trait-that-trump-triggers
 [atl2201]: https://www.theatlantic.com/international/archive/2022/01/boris-johnson-party-pressure/621325/
+[hyde220930]: https://www.theguardian.com/commentisfree/2022/sep/30/new-series-russia-90s-adam-curtis-bbc-films-traumazone
 
 ### programming
 
