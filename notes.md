@@ -28,9 +28,16 @@ of Intelligent Life in the Universe_][tomsear] by Jane Wagner, linking to a
 
 ### economics
 
+- Friedman "only one social responsibility of business." This particular
+  quote apparently from the book _Captialism and Freedom,_ but the idea is
+  better known from the NYT article [A Friedman doctrine‐- The Social
+  Responsibility Of Business Is to Increase Its Profits][nyt70]
+  (1970-09-13). Also at [Maximizing Profits: Milton Friedman][19974].
 - John Honovich quoted in Timothy McLaughlin, ["The Tech Site That Took On
   China’s Surveillance State"][atl2209a], _The Atlantic._
 
+[nyt70]: https://www.nytimes.com/1970/09/13/archives/a-friedman-doctrine-the-social-responsibility-of-business-is-to.html
+[19974]: https://www.opentextbooks.org.hk/ditatopic/19974
 [atl2209a]: https://www.theatlantic.com/international/archive/2022/09/ipvm-journalism-research-chinese-surveillance-technology/671593/
 
 ### ideals
