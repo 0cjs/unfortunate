@@ -63,10 +63,14 @@ of Intelligent Life in the Universe_][tomsear] by Jane Wagner, linking to a
   - p.18 Bertrand Russell, …a beauty cold and asture… From _Mysticism and
     Logic: And Other Essays_ p.60;
   - p.21 Bertrand Russell, …never know what we are talking about…
+- "(i.e. error)" [Terrance Tao][tao] commenting on [The ABC conjecture has
+  (still) not been proved][abc-conj]
 
 [_Specifying Systems_]: https://www.microsoft.com/en-us/research/publication/specifying-systems-the-tla-language-and-tools-for-hardware-and-software-engineers/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Flamport%2Ftla%2Fbook-02-08-08.pdf
 [axiom why lit]: http://axiom-developer.org/axiom-website/documentation.html
 [_Turing's Vision,_]: https://mitpress.mit.edu/books/turings-vision
+[abc-conj]: https://www.galoisrepresentations.com/2017/12/17/the-abc-conjecture-has-still-not-been-proved/
+[tao]: https://www.math.ucla.edu/~tao/
 
 ### misc
 
