@@ -133,10 +133,20 @@ of Intelligent Life in the Universe_][tomsear] by Jane Wagner, linking to a
 - "You in Britian are Moscow in about 1988." Quoted in _The Guardian,_ "A
   new series immerses us in Russia’s 90s trauma – and the human cost of
   economic shock" by Marina Hyde. [[hyde220930]]
+- "psychological management of uncertainty and fear". Original quote from
+  Jost, J. T., Glaser, J., Kruglanski, A. W., & Sulloway, F. (2003a).
+  Political conservatism as motivatedsocial cognition.Psychological
+  Bulletin, 129, 339–375. Quoted in Jost et al. "The Secret Lives of
+  Liberals and Conservatives: Personality Profiles, Interaction Styles, and
+  the Things They Leave Behind"[[jost2008]], in turn quoted in Edsall,
+  "Studies: Conservatives Are From Mars, Liberals Are From Venus" (_The
+  Atlantic_ 2012-02-07) [[atl-12-02-07]].
 
 [stenner]: https://psmag.com/news/authoritarianism-the-terrifying-trait-that-trump-triggers
 [atl2201]: https://www.theatlantic.com/international/archive/2022/01/boris-johnson-party-pressure/621325/
 [hyde220930]: https://www.theguardian.com/commentisfree/2022/sep/30/new-series-russia-90s-adam-curtis-bbc-films-traumazone
+[jost2008]: https://onlinelibrary.wiley.com/doi/10.1111/j.1467-9221.2008.00668.x
+[atl-12-02-07]: https://www.theatlantic.com/politics/archive/2012/02/studies-conservatives-are-from-mars-liberals-are-from-venus/252416/#21
 
 ### programming
 
