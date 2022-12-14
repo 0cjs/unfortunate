@@ -103,6 +103,12 @@ of Intelligent Life in the Universe_][tomsear] by Jane Wagner, linking to a
   <https://www.theatlantic.com/ideas/archive/2022/07/humility-tweet-self-promotion/661444/>
 - "thinking about what you're doing"
   <https://archive.org/details/communicatingthr00wilk/page/n4/mode/1up>
+- "You think not getting caught in a lie is the same thing as telling the
+  truth?" Mentioned on Wikipedia page for _Three Days of the Condor._
+  <https://en.wikipedia.org/wiki/Three_Days_of_the_Condor#Cultural_legacy>
+  Director Sydney Pollack has admitted to using variations of that line in
+  three of his other films: Tootsie (1982), The Firm (1993), and The
+  Interpreter (2005).
 
 ### philosophy
 
