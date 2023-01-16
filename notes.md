@@ -109,6 +109,11 @@ of Intelligent Life in the Universe_][tomsear] by Jane Wagner, linking to a
   Director Sydney Pollack has admitted to using variations of that line in
   three of his other films: Tootsie (1982), The Firm (1993), and The
   Interpreter (2005).
+- "the web is not a free market of information" Edward Helmore summarising
+  an interview with Jaron Lanier (American computing scientist and coiner of
+  the term "virtual reality") in "‘Extinction is on the table’: Jaron Lanier
+  warns of tech’s existential threat to humanity," _The Guardian_ 2022-11-27
+  <https://www.theguardian.com/technology/2022/nov/27/jaron-lanier-tech-threat-humanity-twitter-social-media>
 
 ### philosophy
 
