@@ -1,6 +1,13 @@
 Notes and References
 ====================
 
+### ai
+
+- "...lead to something we call hallucination." Prabhakar Raghavan, SVP and
+  head of Google Search, to to _Welt am Sonntag._ [[welt2202]]
+
+[welt2202]: https://www.entrepreneur.com/business-news/google-exec-warns-of-ai-chatbot-hallucinations/444842
+
 ### cynic
 
 Lily Tomlin, never enough to keep up: quoted on [[badsci]] with source
