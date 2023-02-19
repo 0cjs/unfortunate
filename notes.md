@@ -5,8 +5,11 @@ Notes and References
 
 - "...lead to something we call hallucination." Prabhakar Raghavan, SVP and
   head of Google Search, to to _Welt am Sonntag._ [[welt2202]]
+- Ted Chiang, ["ChatGPT Is a Blurry JPEG of the Web,"][ny230209] _The New
+  Yorker,_ 2023-02-09.
 
 [welt2202]: https://www.entrepreneur.com/business-news/google-exec-warns-of-ai-chatbot-hallucinations/444842
+[ny230209]: https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web
 
 ### cynic
 
