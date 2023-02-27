@@ -1,6 +1,4 @@
-Once that first blush fades, it becomes clear that ChatGPT doesn’t actually
-know anything—instead, it outputs compositions that simulate knowledge
-through persuasive structure.
+Once that first blush fades, it becomes clear that ChatGPT doesn’t actually know anything—instead, it outputs compositions that simulate knowledge through persuasive structure.
     --Ian Bogost, "Generative Art Is Stupid" (_The Atlantic,_ 2023-01-14)
 %
 ChatGPT is autocomplete on steroids. [paraphrased]
@@ -56,3 +54,17 @@ create original work....
 than placing an existing document on an unreliable photocopier and pressing
 the Print button.
     --Ted Chiang, _The New Yorker,_ 2023-02-09
+%
+You've probably already seen examples of chat Bots making simple mistakes
+or getting things wrong, but perhaps more worrying are examples of them
+confidently spouting false information, something which AI experts refer to
+as hallucinating. One reporter asked a chatbot to "...write an essay
+about... 'Belgian chemist and political philosopher Antoine De Machelet'"
+(who does not exist by the way) and "...without hesitating the software
+replied with a cogent well-organized bio populated entirely with imaginary
+facts..."
+  Basically these programs seem to be the George Santos of technology:
+they're incredibly confident, incredibly dishonest, and for some reason
+people seem to find that more amusing than dangerous.
+    --Last Week Tonight with John Oliver,
+      "Artificial Intelligence" https://youtu.be/Sqa8Zo2XWc4?t=1033
