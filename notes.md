@@ -7,9 +7,17 @@ Notes and References
   head of Google Search, to to _Welt am Sonntag._ [[welt2202]]
 - Ted Chiang, ["ChatGPT Is a Blurry JPEG of the Web,"][ny230209] _The New
   Yorker,_ 2023-02-09.
+- "...notorious bullshitters..." Melissa Heikkilä, ["Why you shouldn’t
+  trust AI search engines"][mittr230214], _MIT Technology Review,_ 2023-02-14.
+- "Deep learning has absolutely nothing to do with intelligence...."
+  [Comment by "Rebel Science"][10518757] on Gary Marcus, "A Few Words About
+  Bullshit: How MetaAI’s Galactica just jumped the shark"
 
 [welt2202]: https://www.entrepreneur.com/business-news/google-exec-warns-of-ai-chatbot-hallucinations/444842
 [ny230209]: https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web
+[mittr230214]: https://www.technologyreview.com/2023/02/14/1068498/why-you-shouldnt-trust-ai-search-engines/
+[10518757]: https://garymarcus.substack.com/p/a-few-words-about-bullshit/comment/10518757
+
 
 ### cynic
 
