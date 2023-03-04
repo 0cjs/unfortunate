@@ -81,3 +81,10 @@ effectively generalizing. Objective function optimization (the gradient
 learning mechanism that LeCun is married to) is the opposite of
 generalization. This is not a problem that can be fixed with add-ons. It's
 a fundamental flaw in DL that makes it irrelevant to AGI.
+%
+  Large language models in particular are confident bullshitters: they
+create text that sounds correct but in fact may be full of falsehoods....
+  There is a more serious long-term implication. We may be witnessing, in
+real time, the birth of a snowball of bullshit.
+    --Melissa Heikkilä, "How AI-generated text is poisoning the Internet"
+      _MIT Technology Review,_ 2022-12-20
