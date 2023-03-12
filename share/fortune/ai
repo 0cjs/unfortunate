@@ -88,3 +88,10 @@ create text that sounds correct but in fact may be full of falsehoods....
 real time, the birth of a snowball of bullshit.
     --Melissa Heikkilä, "How AI-generated text is poisoning the Internet"
       _MIT Technology Review,_ 2022-12-20
+%
+Using the Peano axioms, you can prove that 1 + 1 = 2 as follows:
+1. Base case: Show that 1 + 1 = 2 is true for 0....
+2. Inductive step: Assume that 1 + 1 = 2 is true for some natural number n....
+3. Conclusion: By the principle of mathematical induction, 1 + 1 = 2 is
+   true for all natural numbers.
+--Bing Chatbot (OpenGPT) asked to present an inductive proof that 1 + 1 = 2.
