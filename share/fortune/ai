@@ -111,3 +111,8 @@ GPT-4 is 82% less likely to respond to requests for disallowed content and
 40% more likely to produce factual responses than GPT-3.5 on our internal
 evaluations.
     --OpenAI.com website, 2023-03-16
+%
+While ChatGPT is a sophisticated AI model, it is important to note that it
+has been designed for a specific purpose, namely generating human-like text
+based on input text.
+    --ChatGPT Mar 14 Version
