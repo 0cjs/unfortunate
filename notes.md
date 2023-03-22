@@ -14,12 +14,14 @@ Notes and References
   Bullshit: How MetaAI’s Galactica just jumped the shark"
 - "...confident bullshitters..." Melissa Heikkilä, ["How AI-generated text is
   poisoning the Internet"][mtr221220] _MIT Technology Review,_ 2022-12-20
+- Ian Bogost, ["Is This the Singularity for Standardized Tests?"][bog230321]
 
 [welt2202]: https://www.entrepreneur.com/business-news/google-exec-warns-of-ai-chatbot-hallucinations/444842
 [ny230209]: https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web
 [mittr230214]: https://www.technologyreview.com/2023/02/14/1068498/why-you-shouldnt-trust-ai-search-engines/
 [10518757]: https://garymarcus.substack.com/p/a-few-words-about-bullshit/comment/10518757
 [mtr221220]: https://www.technologyreview.com/2022/12/20/1065667/how-ai-generated-text-is-poisoning-the-internet/
+[bog230321]: https://www.theatlantic.com/technology/archive/2023/03/open-ai-gpt4-standardized-tests-sat-ap-exams/673458/
 
 
 ### cynic

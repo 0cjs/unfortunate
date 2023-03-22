@@ -142,3 +142,12 @@ The right way to think of the models that we create is a reasoning engine,
 not a fact database.
     --Outright lie from Sam Altman, CEO of OpenAI, 2023-03-19
       https://abcnews.go.com/Technology/openai-ceo-sam-altman-ai-reshape-society-acknowledges/story?id=97897122
+%
+But why should it be startling in the slightest that software trained on
+the entire text of the internet performs well on standardized exams? AI can
+instantly run what amounts to an open-book test on any subject through
+statistical analysis and regression. Indeed, that anyone is surprised at
+all by this success suggests that people tend to get confused about what it
+means when computers prove effective at human activities.
+    --Ian Bogost, "Is This the Singularity for Standardized Tests?"
+      _The Atlantic_ 2023-03-21
