@@ -998,7 +998,7 @@ it just meant that it passed the test jig.
 The plural of regex is regrets.
 %
 Rules for Building High-Performance Code
-* Know where you’re going.
+* Know where you're going.
 * Make a big map.
 * Make lots of little maps.
 * Know the territory.
@@ -1022,14 +1022,14 @@ lapidary sort of art in the sense that you were dealing with small things
 and trying to get them just right.
   --Don Eyles, Apollo Guidance Computer programmer
 %
-It took almost a decade for “average developer” to grok JavaScript. Now it
+It took almost a decade for "average developer" to grok JavaScript. Now it
 is understood, at least. How much time would pass before Scheme achieved
 the same level of acceptance? I bet forever.
     --Mike Ivanov comment, https://brendaneich.com/2008/04/popularity/
 %
-People who haven’t participated in hackathons talk about them as hotbeds of
+People who haven't participated in hackathons talk about them as hotbeds of
 innovation, as the kinds of places where great thinkers come together and
-dream up exciting new ideas. Hackers don’t see it that way. They share an
+dream up exciting new ideas. Hackers don't see it that way. They share an
 open secret: Nothing useful is ever created at a hackathon.
     --Meredith Broussard, "The Secret Lives of Hackathon Junkies"
       _The Atlantic,_ 2015-07-09

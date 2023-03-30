@@ -1,4 +1,4 @@
-Once that first blush fades, it becomes clear that ChatGPT doesn’t actually
+Once that first blush fades, it becomes clear that ChatGPT doesn't actually
 know anything—instead, it outputs compositions that simulate knowledge
 through persuasive structure.
     --Ian Bogost, "Generative Art Is Stupid" (_The Atlantic,_ 2023-01-14)
@@ -29,30 +29,30 @@ completely made-up answer.
 %
 Think of ChatGPT as a blurry jpeg of all the text on the Web. It retains
 much of the information on the Web, in the same way that a jpeg retains
-much of the information of a higher-resolution image, but, if you’re
-looking for an exact sequence of bits, you won’t find it; all you will ever
+much of the information of a higher-resolution image, but, if you're
+looking for an exact sequence of bits, you won't find it; all you will ever
 get is an approximation. But, because the approximation is presented in the
-form of grammatical text, which ChatGPT excels at creating, it’s usually
-acceptable. You’re still looking at a blurry jpeg, but the blurriness
-occurs in a way that doesn’t make the picture as a whole look less sharp.
+form of grammatical text, which ChatGPT excels at creating, it's usually
+acceptable. You're still looking at a blurry jpeg, but the blurriness
+occurs in a way that doesn't make the picture as a whole look less sharp.
     --Ted Chiang, _The New Yorker,_ 2023-02-09
 %
 The fact that ChatGPT rephrases material from the Web instead of quoting it
 word for word makes it seem like a student expressing ideas in her own
-words, rather than simply regurgitating what she’s read; it creates the
+words, rather than simply regurgitating what she's read; it creates the
 illusion that ChatGPT understands the material. In human students, rote
-memorization isn’t an indicator of genuine learning, so ChatGPT’s inability
+memorization isn't an indicator of genuine learning, so ChatGPT's inability
 to produce exact quotes from Web pages is precisely what makes us think
-that it has learned something. When we’re dealing with sequences of words,
+that it has learned something. When we're dealing with sequences of words,
 lossy compression looks smarter than lossless compression.
     --Ted Chiang, _The New Yorker,_ 2023-02-09
 %
   Will letting a large language model handle the boilerplate allow writers to
 focus their attention on the really creative parts?
   Obviously, no one can speak for all writers, but let me make the argument
-that starting with a blurry copy of unoriginal work isn’t a good way to
+that starting with a blurry copy of unoriginal work isn't a good way to
 create original work....
-   There’s nothing magical or mystical about writing, but it involves more
+   There's nothing magical or mystical about writing, but it involves more
 than placing an existing document on an unreliable photocopier and pressing
 the Print button.
     --Ted Chiang, _The New Yorker,_ 2023-02-09
@@ -153,6 +153,6 @@ means when computers prove effective at human activities.
       _The Atlantic_ 2023-03-21
 %
 People want to believe so badly that these language models are actually
-intelligent that they’re willing to take themselves as a point of reference
+intelligent that they're willing to take themselves as a point of reference
 and devalue that to match what the language model can do.
     --Emily Bender, responding to "People are just stochastic parrots"

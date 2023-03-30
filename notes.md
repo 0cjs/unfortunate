@@ -7,11 +7,11 @@ Notes and References
   head of Google Search, to to _Welt am Sonntag._ [[welt2202]]
 - Ted Chiang, ["ChatGPT Is a Blurry JPEG of the Web,"][ny230209] _The New
   Yorker,_ 2023-02-09.
-- "...notorious bullshitters..." Melissa Heikkilä, ["Why you shouldn’t
+- "...notorious bullshitters..." Melissa Heikkilä, ["Why you shouldn't
   trust AI search engines"][mittr230214], _MIT Technology Review,_ 2023-02-14.
 - "Deep learning has absolutely nothing to do with intelligence...."
   [Comment by "Rebel Science"][10518757] on Gary Marcus, "A Few Words About
-  Bullshit: How MetaAI’s Galactica just jumped the shark"
+  Bullshit: How MetaAI's Galactica just jumped the shark"
 - "...confident bullshitters..." Melissa Heikkilä, ["How AI-generated text is
   poisoning the Internet"][mtr221220] _MIT Technology Review,_ 2022-12-20
 - Ian Bogost, ["Is This the Singularity for Standardized Tests?"][bog230321]
@@ -61,7 +61,7 @@ of Intelligent Life in the Universe_][tomsear] by Jane Wagner, linking to a
   Responsibility Of Business Is to Increase Its Profits][nyt70]
   (1970-09-13). Also at [Maximizing Profits: Milton Friedman][19974].
 - John Honovich quoted in Timothy McLaughlin, ["The Tech Site That Took On
-  China’s Surveillance State"][atl2209a], _The Atlantic._
+  China's Surveillance State"][atl2209a], _The Atlantic._
 
 [nyt70]: https://www.nytimes.com/1970/09/13/archives/a-friedman-doctrine-the-social-responsibility-of-business-is-to.html
 [19974]: https://www.opentextbooks.org.hk/ditatopic/19974
@@ -138,8 +138,8 @@ of Intelligent Life in the Universe_][tomsear] by Jane Wagner, linking to a
   Interpreter (2005).
 - "the web is not a free market of information" Edward Helmore summarising
   an interview with Jaron Lanier (American computing scientist and coiner of
-  the term "virtual reality") in "‘Extinction is on the table’: Jaron Lanier
-  warns of tech’s existential threat to humanity," _The Guardian_ 2022-11-27
+  the term "virtual reality") in "'Extinction is on the table': Jaron Lanier
+  warns of tech's existential threat to humanity," _The Guardian_ 2022-11-27
   <https://www.theguardian.com/technology/2022/nov/27/jaron-lanier-tech-threat-humanity-twitter-social-media>
 
 ### philosophy
@@ -169,7 +169,7 @@ of Intelligent Life in the Universe_][tomsear] by Jane Wagner, linking to a
 - Boris Johnson, "...Tory party's soul...." Quoted in _The Atlantic,_ "The
   Tears of a Clown"[atl2201]
 - "You in Britian are Moscow in about 1988." Quoted in _The Guardian,_ "A
-  new series immerses us in Russia’s 90s trauma – and the human cost of
+  new series immerses us in Russia's 90s trauma – and the human cost of
   economic shock" by Marina Hyde. [[hyde220930]]
 - "psychological management of uncertainty and fear". Original quote from
   Jost, J. T., Glaser, J., Kruglanski, A. W., & Sulloway, F. (2003a).
