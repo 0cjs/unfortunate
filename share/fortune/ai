@@ -156,3 +156,12 @@ People want to believe so badly that these language models are actually
 intelligent that they're willing to take themselves as a point of reference
 and devalue that to match what the language model can do.
     --Emily Bender, responding to "People are just stochastic parrots"
+%
+In earlier days of neural nets, there tended to be the idea that one should
+"make the neural net do as little as possible". For example, in converting
+speech to text it was thought that one should first analyze the audio of
+the speech, break it into phonemes, etc. But what was found is that--at
+least for "human-like tasks"--it's usually better just to try to train the
+neural net on the "end-to-end problem", letting it "discover" the necessary
+intermediate features, encodings, etc. for itself.
+    --Stephen Wolfram, "What Is ChatGPT Doing … and Why Does It Work?"

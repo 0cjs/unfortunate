@@ -18,6 +18,7 @@ Notes and References
 - Emily Bender, "devalue themselves," from ["You Are Not a Parrot,"][ny230301]
   _New York_ magazine, 2023-03-01. Also see "Climbing towards NLU: On
   Meaning, Form and Understanding in the Age of Data." [[bend20]]
+- Wolfram, "make the neural net do as little as possible" [[wolf23]]
 
 [welt2202]: https://www.entrepreneur.com/business-news/google-exec-warns-of-ai-chatbot-hallucinations/444842
 [ny230209]: https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web
@@ -27,6 +28,7 @@ Notes and References
 [bog230321]: https://www.theatlantic.com/technology/archive/2023/03/open-ai-gpt4-standardized-tests-sat-ap-exams/673458/
 [ny230209]: https://nymag.com/intelligencer/article/ai-artificial-intelligence-chatbots-emily-m-bender.html
 [bend20]: https://aclanthology.org/2020.acl-main.463.pdf
+[wolf23]: https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
 
 ### cynic
 
