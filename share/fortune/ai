@@ -165,3 +165,17 @@ least for "human-like tasks"--it's usually better just to try to train the
 neural net on the "end-to-end problem", letting it "discover" the necessary
 intermediate features, encodings, etc. for itself.
     --Stephen Wolfram, "What Is ChatGPT Doing … and Why Does It Work?"
+%
+Large language models can be pretty bad at generating accurate facts and
+knowledge. But they’re pretty darn good at creating plausible renditions of
+the work output you don’t care that much about.
+    --Ian Bogost, "The End of Recommendation Letters"
+%
+So [Huculak] asked ChatGPT to write an "excellent" reference letter, and
+then, instead of using it as a template, he treated it as an enemy. He
+opened the ChatGPT output in one window and tried to compose the very
+opposite of what he saw: an anti-formulaic recommendation letter. "What I
+wrote ended up feeling like the most 'human' and heartfelt letter I've
+written in a long time," he told me. The student won a prestigious
+scholarship at Cambridge.
+    --Ian Bogost, "The End of Recommendation Letters"
