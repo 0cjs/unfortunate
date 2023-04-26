@@ -184,12 +184,17 @@ of Intelligent Life in the Universe_][tomsear] by Jane Wagner, linking to a
   the Things They Leave Behind"[[jost2008]], in turn quoted in Edsall,
   "Studies: Conservatives Are From Mars, Liberals Are From Venus" (_The
   Atlantic_ 2012-02-07) [[atl-12-02-07]].
+-Reihan Salam, ["Searchining for a Conservatism of Normalcy"][sala2304],
+  _The Atlantic,_ 2023-04-25. Quoting from Samuel P. Huntington,
+  ["Conservatism as an Ideology"][hunt57], 1957.
 
 [stenner]: https://psmag.com/news/authoritarianism-the-terrifying-trait-that-trump-triggers
 [atl2201]: https://www.theatlantic.com/international/archive/2022/01/boris-johnson-party-pressure/621325/
 [hyde220930]: https://www.theguardian.com/commentisfree/2022/sep/30/new-series-russia-90s-adam-curtis-bbc-films-traumazone
 [jost2008]: https://onlinelibrary.wiley.com/doi/10.1111/j.1467-9221.2008.00668.x
 [atl-12-02-07]: https://www.theatlantic.com/politics/archive/2012/02/studies-conservatives-are-from-mars-liberals-are-from-venus/252416/#21
+[sala2304]: https://www.theatlantic.com/ideas/archive/2023/04/trump-desantis-samuel-huntington-conservative-ideology/673839/
+[hunt57]: https://www.jstor.org/stable/1952202
 
 ### programming
 
