@@ -19,8 +19,10 @@ Notes and References
   _New York_ magazine, 2023-03-01. Also see "Climbing towards NLU: On
   Meaning, Form and Understanding in the Age of Data." [[bend20]]
 - Wolfram, "make the neural net do as little as possible" [[wolf23]]
-- Bogost, ["The End of Recommendation Letters"][atl2304a],
+- Ian Bogost, ["The End of Recommendation Letters"][atl2304a],
   theatlantic.com, 2023-04-20
+- Amanda Mull, ["Chatbots Sound Like They’re Posting on LinkedIn"][mull2304],
+  _The Atlantic_ 2023-04-25.
 
 [welt2202]: https://www.entrepreneur.com/business-news/google-exec-warns-of-ai-chatbot-hallucinations/444842
 [ny230209]: https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web
@@ -32,6 +34,7 @@ Notes and References
 [bend20]: https://aclanthology.org/2020.acl-main.463.pdf
 [wolf23]: https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
 [atl2304a]: https://www.theatlantic.com/technology/archive/2023/04/chatgpt-ai-college-professors/673796/
+[mull2304]: https://www.theatlantic.com/technology/archive/2023/04/ai-chatbots-llm-text-generator-information-credibility/673841/
 
 ### cynic
 
