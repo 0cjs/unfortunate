@@ -201,3 +201,17 @@ wrote in his book-length essay on this sort of rhetoric.
 What LLMs are currently capable of producing is industrially scaled,
 industrial-grade bullshit.
     --Amanda Mull, "Chatbots Sound Like They're Posting on LinkedIn"
+%
+ChatGPT was trained in a very similar way to InstructGPT, using a technique
+called reinforcement learning from human feedback (RLHF). This is ChatGPT's
+secret sauce. The basic idea is to take a large language model with a
+tendency to spit out anything it wants—in this case, GPT-3.5—and tune it by
+teaching it what kinds of responses human users actually prefer.
+    --_MIT Technology Review_
+%
+From my perspective, ChatGPT fails a lot--there's so much stuff to do. It
+doesn't feel like we've solved these problems. We all have to be very clear
+to ourselves—and to others—about the limitations of the technology. I mean,
+language models have been around for a while now, but it's still early
+days. We know about all the problems they have.
+    --Jan Leike, leader of OpenAI's alignment team
