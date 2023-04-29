@@ -1,5 +1,5 @@
 Once that first blush fades, it becomes clear that ChatGPT doesn't actually
-know anything—instead, it outputs compositions that simulate knowledge
+know anything--instead, it outputs compositions that simulate knowledge
 through persuasive structure.
     --Ian Bogost, "Generative Art Is Stupid" (_The Atlantic,_ 2023-01-14)
 %
@@ -164,7 +164,7 @@ the speech, break it into phonemes, etc. But what was found is that--at
 least for "human-like tasks"--it's usually better just to try to train the
 neural net on the "end-to-end problem", letting it "discover" the necessary
 intermediate features, encodings, etc. for itself.
-    --Stephen Wolfram, "What Is ChatGPT Doing … and Why Does It Work?"
+    --Stephen Wolfram, "What Is ChatGPT Doing...and Why Does It Work?"
 %
 Large language models can be pretty bad at generating accurate facts and
 knowledge. But they're pretty darn good at creating plausible renditions of
@@ -188,12 +188,12 @@ successful response. They generate text that's been optimized for
 plausibility, not for truthfulness. Being right isn't the goal, at least
 not now; sounding right is. For any particular query, there are many more
 answers that sound right than answers that are true. LLMs aren't
-intentionally lying—they are not alive, and cannot produce results
+intentionally lying--they are not alive, and cannot produce results
 meaningfully similar to human thought. And they haven't been created to
 mislead their users. The chatbots do, after all, frequently generate
 answers that are both plausible and correct, even though any veracity is
-incidental. They are, in other words, masters of bullshit—persuasive speech
-whose essence "is just this lack of connection to a concern with truth—this
+incidental. They are, in other words, masters of bullshit--persuasive speech
+whose essence "is just this lack of connection to a concern with truth--this
 indifference to how things really are," the philosopher Harry Frankfurt
 wrote in his book-length essay on this sort of rhetoric.
     --Amanda Mull, "Chatbots Sound Like They're Posting on LinkedIn"
@@ -205,13 +205,13 @@ industrial-grade bullshit.
 ChatGPT was trained in a very similar way to InstructGPT, using a technique
 called reinforcement learning from human feedback (RLHF). This is ChatGPT's
 secret sauce. The basic idea is to take a large language model with a
-tendency to spit out anything it wants—in this case, GPT-3.5—and tune it by
-teaching it what kinds of responses human users actually prefer.
+tendency to spit out anything it wants--in this case, GPT-3.5--and tune it
+by teaching it what kinds of responses human users actually prefer.
     --_MIT Technology Review_
 %
 From my perspective, ChatGPT fails a lot--there's so much stuff to do. It
 doesn't feel like we've solved these problems. We all have to be very clear
-to ourselves—and to others—about the limitations of the technology. I mean,
+to ourselves--and to others--about the limitations of the technology. I mean,
 language models have been around for a while now, but it's still early
 days. We know about all the problems they have.
     --Jan Leike, leader of OpenAI's alignment team
