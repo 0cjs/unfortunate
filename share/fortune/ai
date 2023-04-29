@@ -167,8 +167,8 @@ intermediate features, encodings, etc. for itself.
     --Stephen Wolfram, "What Is ChatGPT Doing … and Why Does It Work?"
 %
 Large language models can be pretty bad at generating accurate facts and
-knowledge. But they’re pretty darn good at creating plausible renditions of
-the work output you don’t care that much about.
+knowledge. But they're pretty darn good at creating plausible renditions of
+the work output you don't care that much about.
     --Ian Bogost, "The End of Recommendation Letters"
 %
 So [Huculak] asked ChatGPT to write an "excellent" reference letter, and
@@ -185,19 +185,19 @@ models, or LLMs. That means they hoover up very large quantities of written
 language online and then, very crudely speaking, analyze that data set to
 determine which words would likely be assembled in which order to create a
 successful response. They generate text that's been optimized for
-plausibility, not for truthfulness. Being right isn’t the goal, at least
+plausibility, not for truthfulness. Being right isn't the goal, at least
 not now; sounding right is. For any particular query, there are many more
-answers that sound right than answers that are true. LLMs aren’t
+answers that sound right than answers that are true. LLMs aren't
 intentionally lying—they are not alive, and cannot produce results
-meaningfully similar to human thought. And they haven’t been created to
+meaningfully similar to human thought. And they haven't been created to
 mislead their users. The chatbots do, after all, frequently generate
 answers that are both plausible and correct, even though any veracity is
 incidental. They are, in other words, masters of bullshit—persuasive speech
 whose essence "is just this lack of connection to a concern with truth—this
 indifference to how things really are," the philosopher Harry Frankfurt
 wrote in his book-length essay on this sort of rhetoric.
-    --Amanda Mull, "Chatbots Sound Like They’re Posting on LinkedIn"
+    --Amanda Mull, "Chatbots Sound Like They're Posting on LinkedIn"
 %
 What LLMs are currently capable of producing is industrially scaled,
 industrial-grade bullshit.
-    --Amanda Mull, "Chatbots Sound Like They’re Posting on LinkedIn"
+    --Amanda Mull, "Chatbots Sound Like They're Posting on LinkedIn"
