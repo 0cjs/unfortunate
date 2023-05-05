@@ -27,6 +27,7 @@ Notes and References
   Will Douglas Heaven, ["The inside story of how ChatGPT was built from the
   people who made it,"][mittr230303] _MIT Technology Review_, 2023-03-03.
 - "ChatGPT fails a lot...." [[mittr230303]]
+--Kelli María Korducki, ["The Goopification of AI"][kord230504]
 
 [welt2202]: https://www.entrepreneur.com/business-news/google-exec-warns-of-ai-chatbot-hallucinations/444842
 [ny230209]: https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web
@@ -40,6 +41,7 @@ Notes and References
 [atl2304a]: https://www.theatlantic.com/technology/archive/2023/04/chatgpt-ai-college-professors/673796/
 [mull2304]: https://www.theatlantic.com/technology/archive/2023/04/ai-chatbots-llm-text-generator-information-credibility/673841/
 [mittr230303]: https://www.technologyreview.com/2023/03/03/1069311/inside-story-oral-history-how-chatgpt-built-openai/
+[kord230504]: https://www.theatlantic.com/technology/archive/2023/05/ai-chatbots-self-help/673953/
 
 ### cynic
 

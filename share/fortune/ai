@@ -215,3 +215,13 @@ to ourselves--and to others--about the limitations of the technology. I mean,
 language models have been around for a while now, but it's still early
 days. We know about all the problems they have.
     --Jan Leike, leader of OpenAI's alignment team
+%
+...large language models work, in effect, as probabilistic collage artists.
+They respond to a user's prompts by assembling word combinations that have
+a high likelihood of appearing together in relation to said prompt. The
+more formulaic a prompt's associated content—or, charitably, the more
+frequent and consistent its related wisdom on the internet—the truer to
+life the response.
+  But I should emphasize that true to life doesn't necessarily mean
+accurate, and it definitely doesn't always mean useful.
+    --Kelli María Korducki, "The Goopification of AI"
