@@ -156,6 +156,9 @@ of Intelligent Life in the Universe_][tomsear] by Jane Wagner, linking to a
   the term "virtual reality") in "'Extinction is on the table': Jaron Lanier
   warns of tech's existential threat to humanity," _The Guardian_ 2022-11-27
   <https://www.theguardian.com/technology/2022/nov/27/jaron-lanier-tech-threat-humanity-twitter-social-media>
+- "Engineering Method": engineerguy (Bill Hamack), ["Building a Cathedral
+  without Science or Mathematics: The Engineering Method Explained"](
+  https://youtu.be/_ivqWN4L3zU)
 
 ### philosophy
 
