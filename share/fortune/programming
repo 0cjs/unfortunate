@@ -1037,3 +1037,8 @@ open secret: Nothing useful is ever created at a hackathon.
 Anyone who considers arithmetical methods of producing random digits is,
 of course, in a state of sin.
     --John Von Neumann, 1949
+%
+Clarity of expression is critical to engineering.
+Correct but unclear specifications and code tend to get broken.
+Incorrect but clear specifications and code tend to get fixed.
+    --cjs
