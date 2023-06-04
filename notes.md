@@ -63,10 +63,12 @@ of Intelligent Life in the Universe_][tomsear] by Jane Wagner, linking to a
   simplicity" in his 1980 Turing Award lecture ["The Emperor's Old
   Clothes"][hoare80], but the transcription of 1975 [ewd498] mentions it as
   a "handwritten annotation."
+- Null objection: [Null References: The Billion Dollar Mistake][infoq-null]
 
 [wq dijkstra]: https://en.wikiquote.org/wiki/Talk:Edsger_W._Dijkstra#Simplicity_is_prerequisite_for_reliability
 [hoare80]: http://lambda.cs.yale.edu/cs422/doc/hoare.pdf
 [ewd498]: http://www.cs.virginia.edu/~evans/cs655/readings/ewd498.html
+[infoq-null]: https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/
 
 ### economics
 
@@ -221,6 +223,8 @@ of Intelligent Life in the Universe_][tomsear] by Jane Wagner, linking to a
 - Mike Stay, save the environment from [[mo 1083]].
 - Don Eyles, lapidary; [_WSJ_ interview][wsj19], July 2019
 - "The Secret Lives of Hackathon Junkies" [atl 2015-07-09]
+- Hoare, PL designer responsible for mistakes made by programmers using the
+  language. [Null References: The Billion Dollar Mistake][infoq-null]
 
 [_Let Over Lambda_ ch.5]: https://letoverlambda.com/index.cl/guest/chap5.html
 [axiom-readme]: https://github.com/daly/axiom

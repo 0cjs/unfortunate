@@ -258,3 +258,8 @@ convincing"; and a proof really means an understanding. By program
 structure he means data structure as well as control structure.
     -— Donald Knuth, "Structured Programming with go to Statements"
        https://dl.acm.org/doi/pdf/10.1145/356635.356640
+%
+If you have a null reference, then every bachelor who you represent in
+your object structure will seem to be married polyamocursly to the
+same person Null.
+    --Dijkstra's objection to Hoare's null reference.

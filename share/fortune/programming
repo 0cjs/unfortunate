@@ -1042,3 +1042,7 @@ Clarity of expression is critical to engineering.
 Correct but unclear specifications and code tend to get broken.
 Incorrect but clear specifications and code tend to get fixed.
     --cjs
+%
+A programming language designer should be responsible for the mistakes made
+by programmers using the language.
+    --C.A.R. Hoare
