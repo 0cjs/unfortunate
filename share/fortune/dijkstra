@@ -61,7 +61,7 @@ had one regrettable effect. Its power should have been used exclusively
 to shorten the language definition, but it made the introduction of
 new syntactical categories so easy that the final syntax became more
 elaborate and more complicated than desirable.
-    --Edgar Dijkstra, EWD1284,
+    --Edsgar Dijkstra, EWD1284,
       http://www.cs.utexas.edu/users/EWD/transcriptions/EWD12xx/EWD1284.html
 %
   Mid 1959 I attended a preliminary meeting at which the notion of
@@ -78,7 +78,7 @@ such it represented a quantum leap in our coming to grips with the
 programming task. I was deeply impressed by the block structure, but
 have never seen able to find out who in particular has been responsible
 for its invention.
-    --Edgar Dijkstra, EWD1284,
+    --Edsgar Dijkstra, EWD1284,
       http://www.cs.utexas.edu/users/EWD/transcriptions/EWD12xx/EWD1284.html
 %
   Industry suffers from the managerial dogma that for the sake of
@@ -89,18 +89,17 @@ demands on its work force....The moral of this sad part of the story is
 that as long as computing science is not allowed to save the computer
 industry, we had better see to it that the computer industry does not
 kill computing science.
-    --Edgar Dijkstra, EWD1284,
+    --Edsgar Dijkstra, EWD1284,
       http://www.cs.utexas.edu/users/EWD/transcriptions/EWD12xx/EWD1284.html
 %
 I mean, if ten years from now, when you are doing something quick and
 dirty, you suddenly visualize that I am looking over your shoulders and
 say to yourself, "Dijkstra would not have liked this," well, that would
 be enough immortality for me.
-    --Edgar Dijkstra
+    --Edsgar Dijkstra
 %
-If debugging is the process of removing software bugs, then programming
-must be the process of putting them in.
-    --Edgar Dijkstra
+If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+    --Edsgar Dijkstra
 %
 It is practically impossible to teach good programming style to students
 that have had prior exposure to BASIC. As potential programmers, they
