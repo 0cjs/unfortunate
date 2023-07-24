@@ -161,6 +161,8 @@ of Intelligent Life in the Universe_][tomsear] by Jane Wagner, linking to a
 - "Engineering Method": engineerguy (Bill Hamack), ["Building a Cathedral
   without Science or Mathematics: The Engineering Method Explained"](
   https://youtu.be/_ivqWN4L3zU)
+- "PowerPoint corrupts." Vinct Cerf quoted in [AP article by Rachel Konrad](
+  https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0000iF)
 
 ### philosophy
 
