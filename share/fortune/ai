@@ -233,3 +233,11 @@ to function as a submarine and remain intact underwater.
 It is not that O's utterances make sense, but rather, that A can make
 sense of them.
     --Bender and Koller, "Climbing towards NLU" (2020)
+%
+(To ChatGPT 3.5)
+Q: Can you eat apples?
+A: No, I cannot eat apples or any other food....
+Q: You have three apples. After you eat as many as you can, how many apples
+   do you have left?
+A: If I were to eat as many apples as I can from the initial three, I would
+   have zero apples left.
