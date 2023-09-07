@@ -93,9 +93,12 @@ of Intelligent Life in the Universe_][tomsear] by Jane Wagner, linking to a
   - Ser realistas y pragmáticos no quiere decir renunciar a los ideales, que no
     deben ser confundidos con quimeras y bellos sueños, sino aceptados como
     objetivos a realizar.
+- dream hampton, quoted in ["Hip-hop’s Fiercest Critic"][korn23] by Spencer
+  Kornhaber, _The Atlantic_ Oct. 2023.
 
 [ariz]: http://www.laputaproject.com/images/uploaded/20160626/6360250877190692844348445.pdf
 [pens]: https://arizmendiarrieta.org/wp-content/uploads/2017/09/pensamientos.pdf
+[korn23]: https://www.theatlantic.com/magazine/archive/2023/10/dream-hampton-music-journalism-hip-hop-notorious-big/675115/
 
 ### math
 
