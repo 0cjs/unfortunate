@@ -1046,3 +1046,12 @@ Incorrect but clear specifications and code tend to get fixed.
 A programming language designer should be responsible for the mistakes made
 by programmers using the language.
     --C.A.R. Hoare
+%
+A basic principle of data processing teaches the folly of trying to
+maintain independent files in synchronization.... Yet our practice in
+programming documentation violates our own teaching. We typically attempt
+to maintain a machine-readable form of a program and an independent set of
+human-readable documentation, consisting of prose and flowcharts.... The
+solution, I think, is to merge the files, to incorporate the documentation
+in the source program.
+    --Fred Brooks, _The Mythical Man-month_
