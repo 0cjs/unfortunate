@@ -222,7 +222,7 @@ of Intelligent Life in the Universe_][tomsear] by Jane Wagner, linking to a
 ### programming
 
 - Wilson, standards of proof: found at [axiom-readme].
-- Henney, incomprehensible code: found at [axiom-readme].
+- Henney, incomprehensible code: found at [axiom-readme], originally [henney].
 - Hoare, top-down programming: quoted in [_Let Over Lambda_ ch.5].
 - Eghbal, "Open source is...a positive externality...." _Working in Public:
   The Making and Maintenance of Open Source Software_. Stripe Press, 2020.
@@ -236,6 +236,7 @@ of Intelligent Life in the Universe_][tomsear] by Jane Wagner, linking to a
 
 [_Let Over Lambda_ ch.5]: https://letoverlambda.com/index.cl/guest/chap5.html
 [axiom-readme]: https://github.com/daly/axiom
+[henney]: https://www.theguardian.com/world/2023/oct/31/children-living-under-siege-kabul-afghanistan?src=longreads
 [bogatin20]: https://www.altium.com/live-conference/altiumlive-2018-annual-pcb-design-summit/sessions/value-white-space
 [mo 1083]: https://web.archive.org/web/20190430085721/https://mathoverflow.net/questions/1083/do-good-math-jokes-exist
 [wsj19]: https://youtu.be/z4cn93H6sM0
