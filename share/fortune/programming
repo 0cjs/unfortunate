@@ -1055,3 +1055,17 @@ human-readable documentation, consisting of prose and flowcharts.... The
 solution, I think, is to merge the files, to incorporate the documentation
 in the source program.
     --Fred Brooks, _The Mythical Man-month_
+%
+Generalising this into code, and adding pattern matching to supply the
+stopping condition, we have a definition for a fact() function:
+
+    fact(∞) -> ∞; % Exploit the fact that ∞! = ∞;
+    fact(N) -> fact(N+1)/(N+1).
+
+Don't worry about that use of very large numbers there - Erlang uses
+arbitrary-sized integers, so it won't fall over just because we pass the
+64-bit limit! (Actually, that example doesn't look quite right. Perhaps you
+better google it up before you use it. I don't think it implements proper
+tail recursion.)
+    --Verity Stob, on Erlang
+      https://www.theregister.com/2009/12/10/verity_stob/?page=3
