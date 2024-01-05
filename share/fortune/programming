@@ -577,17 +577,16 @@ user-friendly circumscription.
     --Niklaus Wirth, from an interview in Software Development, June 1997
 %
 The wealth of features of many languages is indeed a problem rather than a
-solution. A multitude of features is another consequence of the
-programmers' belief that the value of a language is proportional to the
-quantity of its features and facilities, bells, and whistles. However, we
-know that it is better if each basic concept is represented by a single,
-designated language construct. Not only does this reduce the effort of
-learning, but it reduces the volume of the language's description, and
-thereby the possibilities of inconsistency and of misunderstanding. Keeping
-a language as simple and as regular as possible has always been a guideline
-in my work; the description of Pascal took some 50 pages, Modula took 40,
-and Oberon took a mere 16. This I still consider to have been genuine
-progress.
+solution. A multitude of features is another consequence of the programmers'
+belief that the value of a language is proportional to the quantity of its
+features and facilities, bells, and whistles. However, we know that it is
+better if each basic concept is represented by a single, designated language
+construct. Not only does this reduce the effort of learning, but it reduces
+the volume of the language's description, and thereby the possibilities of
+inconsistency and of misunderstanding. Keeping a language as simple and as
+regular as possible has always been a guideline in my work; the description
+of Pascal took some 50 pages, Modula took 40, and Oberon took a mere 16.
+This I still consider to have been genuine progress.
     --Niklaus Wirth, from an interview in Software Development, June 1997
 %
 I remember a long discussion in an academic seminar in the mid-1970s, when
