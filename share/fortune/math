@@ -172,7 +172,9 @@ al-Khwarizmi:
     square, which is equal to a hundred and one roots....
 
 Modern notation:
-    (10 - x)² = 81x,   100 + x² - 20x = 81x,   x² + 100 = 101x
+         (10 - x)² =  81x
+    100 + x² - 20x =  81x
+          x² + 100 = 101x
 
     --https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi#Algebra
 %
