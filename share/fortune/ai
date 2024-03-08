@@ -245,3 +245,11 @@ A: If I were to eat as many apples as I can from the initial three, I would
 Natural language can be used for logic, but it can also be used for deceit.
 ChatGPT was built to deceive.
     --cjs
+%
+Q: Can you reason?
+A: ...I can perform various tasks that may seem like reasoning to some
+extent, such as answering questions, generating text based on prompts, or
+providing logical responses based on patterns in the data I've been trained
+on. Essentially, my responses are based on statistical patterns in language
+data rather than true reasoning.
+    --ChatGPT 3.5, summarising the QA as, "Models don't reason."
