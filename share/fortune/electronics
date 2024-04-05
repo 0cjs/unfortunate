@@ -6,3 +6,9 @@ its characteristic impedance. Energy, being relatively easy to fool, cannot
 distinguish between real transmission line and a resistor equal to the
 characteristic impedance.
     --_The Design of CMOS Radio-Frequency Integrated Circuits_
+%
+Every sensor is a temperature sensor, nearly everything is a resistor or a
+conductor if you try hard enough and anything is an antenna. Datasheets are
+just a suggestion.
+    --"Unconventional Uses of FPGAs"
+      https://voltagedivide.com/2024/03/18/unconventional-uses-of-fpgas/
