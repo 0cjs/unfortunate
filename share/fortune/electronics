@@ -1,0 +1,8 @@
+We've just seen that an infinite ladder network of infinitesimally small
+inductors and capacitors has a purely real input impedance over an infinite
+bandwidth. Although structures that are infinitely long are somewhat
+inconvenient to realize, we can always terminate a finite length of line in
+its characteristic impedance. Energy, being relatively easy to fool, cannot
+distinguish between real transmission line and a resistor equal to the
+characteristic impedance.
+    --_The Design of CMOS Radio-Frequency Integrated Circuits_
