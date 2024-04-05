@@ -31,6 +31,10 @@ point he started running up the hill to the FBO to get help, and
 collapsed to the ground and died of a heart attack.
     -- mongo, https://aviation.stackexchange.com/a/57301/16923
 %
+Bad practices that seem harmless in isolation interact in odd ways in
+combination.
+    --Eric Lippert, comment on https://aviation.stackexchange.com/a/57301/16923
+%
 Select, then verify, then call.
 Understand the difference between 'selected', 'indicated' and 'true' values.
 %
