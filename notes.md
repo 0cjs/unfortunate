@@ -166,6 +166,7 @@ of Intelligent Life in the Universe_][tomsear] by Jane Wagner, linking to a
   https://youtu.be/_ivqWN4L3zU)
 - "PowerPoint corrupts." Vinct Cerf quoted in [AP article by Rachel Konrad](
   https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0000iF)
+- Fischer Scientific [Water MSDS][water].
 
 ### philosophy
 
@@ -179,6 +180,7 @@ of Intelligent Life in the Universe_][tomsear] by Jane Wagner, linking to a
 [guard220901]: https://www.theguardian.com/lifeandstyle/2022/sep/01/dining-across-the-divide-got-home-googled-bromance
 [sen-hap]: https://standardebooks.org/ebooks/seneca/dialogues/aubrey-stewart/text/on-a-happy-life
 [sen-dia]: https://standardebooks.org/ebooks/seneca/dialogues/aubrey-stewart
+[water]: https://www.fishersci.com/store/msds?partNumber=BP28191&productDescription=WATER+MOLECULAR+BIOLOGY+GRADE&vendorId=VN00033897&countryCode=US&language=en
 
 ### politics
 
