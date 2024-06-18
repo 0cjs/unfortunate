@@ -923,3 +923,7 @@ Excerpts from the Fisher Scientific material safety data sheet for water:
       solubility.
 15. Regulatory information
     • CWA (Clean Water Act): Not applicable
+%
+Once, the commonest Unix program was `grep`. Today, it’s `emacs` or `mozilla`.
+    --Rob Pike, "The Good, the Bad, and the Ugly: The Unix™ Legacy,"
+      2001-09-08, http://herpolhode.com/rob/ugly.pdf
