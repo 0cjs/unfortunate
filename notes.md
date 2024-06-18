@@ -235,6 +235,7 @@ of Intelligent Life in the Universe_][tomsear] by Jane Wagner, linking to a
 - "The Secret Lives of Hackathon Junkies" [atl 2015-07-09]
 - Hoare, PL designer responsible for mistakes made by programmers using the
   language. [Null References: The Billion Dollar Mistake][infoq-null]
+- Rob Pike on _Go,_ quoted at [go iterator design][gb240617]
 
 [_Let Over Lambda_ ch.5]: https://letoverlambda.com/index.cl/guest/chap5.html
 [axiom-readme]: https://github.com/daly/axiom
@@ -243,7 +244,7 @@ of Intelligent Life in the Universe_][tomsear] by Jane Wagner, linking to a
 [mo 1083]: https://web.archive.org/web/20190430085721/https://mathoverflow.net/questions/1083/do-good-math-jokes-exist
 [wsj19]: https://youtu.be/z4cn93H6sM0
 [atl 2015-07-09]: https://www.theatlantic.com/technology/archive/2015/07/the-secret-lives-of-hackathon-junkies/397895/
-
+[gb240617]: https://www.gingerbill.org/article/2024/06/17/go-iterator-design/
 
 ### security-maxims
 
