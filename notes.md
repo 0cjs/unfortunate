@@ -211,6 +211,8 @@ of Intelligent Life in the Universe_][tomsear] by Jane Wagner, linking to a
   ["Conservatism as an Ideology"][hunt57], 1957.
 - Altemeyer, "whereas leftists can be downright suspicious of people who
   might have nefarious reasons for agreeing with them..." [alte2305]
+- Aaron Bushnell paraphrasing Mikhail Bakunin quoted in ["Aaron Bushnell’s
+  Agonies"][nymag-240619], _New York_ magazine, 2024-06-19.
 
 [stenner]: https://psmag.com/news/authoritarianism-the-terrifying-trait-that-trump-triggers
 [atl2201]: https://www.theatlantic.com/international/archive/2022/01/boris-johnson-party-pressure/621325/
@@ -220,6 +222,7 @@ of Intelligent Life in the Universe_][tomsear] by Jane Wagner, linking to a
 [sala2304]: https://www.theatlantic.com/ideas/archive/2023/04/trump-desantis-samuel-huntington-conservative-ideology/673839/
 [hunt57]: https://www.jstor.org/stable/1952202
 [alte2305]: https://theauthoritarians.org/why-do-so-many-people-still-support-donald-trump/
+[nymag-240619]: https://nymag.com/intelligencer/article/who-is-aaron-bushnell-self-immolation-israel-embassy.html
 
 ### programming
 
