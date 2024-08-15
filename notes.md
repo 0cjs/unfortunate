@@ -100,6 +100,14 @@ of Intelligent Life in the Universe_][tomsear] by Jane Wagner, linking to a
 [pens]: https://arizmendiarrieta.org/wp-content/uploads/2017/09/pensamientos.pdf
 [korn23]: https://www.theatlantic.com/magazine/archive/2023/10/dream-hampton-music-journalism-hip-hop-notorious-big/675115/
 
+### lisp
+
+- Kurt Vonnegut/Darius Bacon, quoted at Max Bernstein, [Lisp implementations].
+  The original poem is from _Cat's Cradle,_ with "Man" instead of "Lisper,"
+  and "'why, why, why?'".
+
+[Lisp implementations]: https://bernsteinbear.com/blog/lisp/
+
 ### math
 
 - Lamport, sloppy: [_Specifying Systems_], quoted on [axiom why lit].
