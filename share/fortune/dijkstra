@@ -262,3 +262,24 @@ If you have a null reference, then every bachelor who you represent in
 your object structure will seem to be married polyamocursly to the
 same person Null.
     --Dijkstra's objection to Hoare's null reference.
+%
+Raise your quality standards as high as you can live with, avoid wasting
+your time on routine problems, and always try to work as closely as
+possible at the boundary of your abilities. Do this, because it is the only
+way of discovering how that boundary should be moved forward.
+    --Edsger Dijkstra, EWD637 (1977-78)
+%
+Eventually a nice formal treatment is always the most concise way of
+capturing our understanding and the most effective way of conveying the
+argument with all its convincing power to someone else.
+    --Edsger Dijkstra, EWD638 (1977-78)
+%
+...fallen into the same trap as the author who wrote in his preface "the
+standard symbols of the logical connectives have been avoided for the sake
+of clarity", unaware as he was that it was precisely for the sake of
+clarity that these symbols have been invented!
+    --Edsger Dijkstra, EWD638 (1977-78)
+%
+They don't distinguish between the love of perfection and claim of perfection,
+and blame people for the first by accusing them of the latter.
+    --Edsger Dijkstra, EWD638 (1977-78)
