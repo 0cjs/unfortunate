@@ -1103,3 +1103,6 @@ capable of understanding a brilliant language but we want to use them to
 build good software. So, the language that we give them has to be easy for
 them to understand and easy to adopt.
     --Rob Pike on _Go._
+%
+6 hours of debugging can save you 5 minutes of reading documentation.
+    --jakob (@jcsrb), Twitter 2021-05-12
