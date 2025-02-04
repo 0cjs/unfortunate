@@ -196,7 +196,7 @@ that becomes more and more difficult looking, until a miracle (i.e. error)
 occurs to dramatically simplify the problem.
     --Terence Tao
 %
-A monad is a monoid in the category of endofuctors.
+A monad is a monoid in the category of endofunctors.
 %
 Euclid alone has looked on Beauty bare.
 Let all who prate of Beauty hold their peace,
