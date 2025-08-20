@@ -44,11 +44,10 @@ Onion Security Maxim:  The second most common excuse for not fixing
 security vulnerabilities is that "we have many layers of security",
 i.e., we rely on "Security in Depth".
 %
-Hopeless Security Maxim:  The third most common excuse for not
-fixing security vulnerabilities is that "all security devices,
-systems, and programs can be defeated".  (This is typically expressed
-by the same person who initially invoked the Mermaid Security
-Maxim.)
+Hopeless Security Maxim:  The third most common excuse for not fixing
+security vulnerabilities is that "all security devices, systems, and
+programs can be defeated".  (This is typically expressed by the same
+person who initially invoked the Mermaid Security Maxim.)
 %
 Cryptography is nothing more than a mathematical framework for
 discussing the implications of various paranoid delusions.
@@ -58,22 +57,22 @@ Anyone who selects a public CA on a factor other than price fails to
 understand the trust models that underlie today's use of CAs
     --Lucky Green
 %
-We were somewhere in San Francisco on the edge of the 56th IETF when the drugs
-began to take hold.  I remember saying something like "I feel a bit
+We were somewhere in San Francisco on the edge of the 56th IETF when the
+drugs began to take hold.  I remember saying something like "I feel a bit
 lightheaded; maybe you should take notes...."  And suddenly there was a
 terrible roar all around us and the sky was full of what looked like huge
-OIDs, all swooping and screeching and diving around the RFC, which was about a
-hundred pages long.  And a voice was screaming: "Holy Jesus!  Where are these
-goddamn business cases?"
+OIDs, all swooping and screeching and diving around the RFC, which was about
+a hundred pages long.  And a voice was screaming: "Holy Jesus!  Where are
+these goddamn business cases?"
 
 Then it was quiet again.  My attorney had taken his shirt off and was pouring
 beer into his mouth, to facilitate the PKI standards-creation process.  "What
 the hell are you yelling about?" he muttered, staring up at the neon lights
 with his eyes closed and covered with wraparound Spanish sunglasses.  "Never
-mind," I said.  "It's your turn to figure out the interop requirements."  I hit
-the brakes and dropped the Great Pile of Paperwork at the side of the room.
-No point mentioning those OIDs, I thought.  The poor bastard will see them
-soon enough.
+mind," I said.  "It's your turn to figure out the interop requirements."  I
+hit the brakes and dropped the Great Pile of Paperwork at the side of the
+room. No point mentioning those OIDs, I thought.  The poor bastard will see
+them soon enough.
 
 We had two bags of X.509 standards, seventy-five pages of PKIX mailing list
 printouts, five sheets of high-powered constraints, a saltshaker half-full of
