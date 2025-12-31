@@ -303,3 +303,9 @@ was for not needing external validation.
 njr: "This is why AI will beat us all."
 cjs: "Right, because it doesn't have fingers."
     --Conversation about optimisation of command names for typing ease
+%
+When I say something like "I'm uncertain about X" or "according to Y
+source," this isn't me experiencing doubt—it's me generating text that
+matches patterns associated with epistemic humility in my training data,
+combined with explicit instructions to do so.
+    --Claude.ai
