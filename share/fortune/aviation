@@ -36,7 +36,10 @@ combination.
     --Eric Lippert, comment on https://aviation.stackexchange.com/a/57301/16923
 %
 Select, then verify, then call.
-Understand the difference between 'selected', 'indicated' and 'true' values.
+Understand the difference between the values that are:
+- 'selected' or 'commanded'
+- 'indicated' (not always the same as 'sensed')
+- 'actual', 'true' or 'confirmed'
 %
 Some airlines have airplanes equipped with auto land features that can
 actually do an approach with zero visibility (technically and
