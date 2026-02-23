@@ -284,3 +284,14 @@ clarity that these symbols have been invented!
 They don't distinguish between the love of perfection and claim of perfection,
 and blame people for the first by accusing them of the latter.
     --Edsger Dijkstra, EWD638 (1977-78)
+%
+Imagine if [Dennis Ritchie] didn't create C. There would be no C++, no
+C#, no Java, no Go, no PHP, no nothing. We would still be writing Lisp
+and Fortran code. The world would be COMPLETELY different.
+    --https://www.quora.com/If-you-could-spend-one-day-with-Edsger-W-Dijkstra-Dennis-Ritchie-or-Steve-Jobs-who-would-you-choose
+%
+I have felt for a long time that a talent for programming consists largely
+of the ability to switch readily from microscopic to macroscopic views of
+things, i.e., to change levels of abstraction fluently.
+    -- Donald Knuth, "Structured Programming with go to Statements"
+       https://dl.acm.org/doi/pdf/10.1145/356635.356640

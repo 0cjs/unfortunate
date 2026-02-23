@@ -537,11 +537,6 @@ type notation followed by that for the new value notation.
 You're either a functional programmer or a dysfunctional programmer.
     --cjs 2015-09-19
 %
-Imagine if [Dennis Ritchie] didn't create C. There would be no C++, no
-C#, no Java, no Go, no PHP, no nothing. We would still be writing Lisp
-and Fortran code. The world would be COMPLETELY different.
-    --https://www.quora.com/If-you-could-spend-one-day-with-Edsger-W-Dijkstra-Dennis-Ritchie-or-Steve-Jobs-who-would-you-choose
-%
 The intention is to [use] laziness to avoid unnecessary work.
     --https://hackage.haskell.org/package/gitlib-3.1.1/docs/Git-Tutorial.html
 %
@@ -857,12 +852,6 @@ class distinction in the 1980s, but I rather think we did.
     --Graham Nelson, "New Tricks for an Old Z-Machine, Part 2"
       https://www.filfre.net/2019/11/new-tricks-for-an-old-z-machine-part-2
       -hacking-deeper-or-follies-of-graham-nelsons-youth/
-%
-I have felt for a long time that a talent for programming consists largely
-of the ability to switch readily from microscopic to macroscopic views of
-things, i.e., to change levels of abstraction fluently.
-    -- Donald Knuth, "Structured Programming with go to Statements"
-       https://dl.acm.org/doi/pdf/10.1145/356635.356640
 %
 To replace programmers with Robots, clients will have to accurately
 describe what they want.
