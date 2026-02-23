@@ -111,6 +111,10 @@ Program testing can be used to show the presence of bugs, but never to show
 their absence!
     --Edsger Dijkstra, EWD268 (August 1969)
 %
+Beware of bugs in the above code; I have only proved it correct, not tried it.
+    --Donald Knuth, in notes to Peter van Emde Boas
+      https://staff.science.uva.nl/~peter/knuthnote.pdf
+%
 The first moral of the story is that program testing can be used very
 effectively to show the presence of bugs but never to show their
 absence.
