@@ -314,3 +314,13 @@ But I wonder if it’s true that the lack of a "world model"
 is what pushes L.L.M. text toward metaphorical drivel....
     --Max Read, "Will A.I. writing every be good?"
       https://maxread.substack.com/p/will-ai-writing-ever-be-good
+%
+Deep learning is so well-suited to reading images from MRIs and CT scans,
+[Geoffrey Hinton, 'Godfather' of deep learning] reasoned, that people
+should "stop training radiologists now" and that it’s "just completely
+obvious within five years deep learning is going to do better."
+  Fast forward to 2022, and not a single radiologist has been replaced.
+Rather, the consensus view nowadays is that machine learning for radiology
+is harder than it looks.
+    --Gary Marcus, "Deep Learning Is Hitting a Wall"
+      https://nautil.us/deep-learning-is-hitting-a-wall-238440
