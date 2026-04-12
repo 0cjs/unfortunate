@@ -324,3 +324,27 @@ Rather, the consensus view nowadays is that machine learning for radiology
 is harder than it looks.
     --Gary Marcus, "Deep Learning Is Hitting a Wall"
       https://nautil.us/deep-learning-is-hitting-a-wall-238440
+%
+Deep learning, which is fundamentally a technique for recognizing patterns,
+is at its best when all we need are rough-ready results, where stakes are
+low and perfect results optional.
+    --Gary Marcus, "Deep Learning Is Hitting a Wall"
+      https://nautil.us/deep-learning-is-hitting-a-wall-238440
+%
+Few fields have been more filled with hype and bravado than
+artificial intelligence.
+    --Gary Marcus, "Deep Learning Is Hitting a Wall"
+      https://nautil.us/deep-learning-is-hitting-a-wall-238440
+%
+A deep-learning system has mislabeled an apple as an iPod because the apple
+had a piece of paper in front with "iPod" written across.
+    --Gary Marcus, "Deep Learning Is Hitting a Wall"
+      https://nautil.us/deep-learning-is-hitting-a-wall-238440
+%
+An LLM doesn't cut corners because it's tired; it produces poorly structured
+code because it's generating token-by-token based on distributional patterns in
+its training data, and the training data is overwhelmingly not exemplary code.
+    --Claude.ai, https://claude.ai/share/6d3fc5d3-e5c8-4bc0-80a6-0b7a1c45dcf4
+%
+LLMs are fluent, which people consistently mistake for competent.
+    --Claude.ai, https://claude.ai/share/6d3fc5d3-e5c8-4bc0-80a6-0b7a1c45dcf4
