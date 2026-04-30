@@ -348,3 +348,8 @@ its training data, and the training data is overwhelmingly not exemplary code.
 %
 LLMs are fluent, which people consistently mistake for competent.
     --Claude.ai, https://claude.ai/share/6d3fc5d3-e5c8-4bc0-80a6-0b7a1c45dcf4
+%
+Most online forums score conversation on volume of plausible-looking output
+per unit time, with weak feedback loops on truth. That's the metric LLMs
+are structurally built to optimise.
+    --Claude.ai, https://claude.ai/chat/782a277e-9d8f-4399-8806-078bf1e22105
