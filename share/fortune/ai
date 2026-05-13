@@ -353,3 +353,7 @@ Most online forums score conversation on volume of plausible-looking output
 per unit time, with weak feedback loops on truth. That's the metric LLMs
 are structurally built to optimise.
     --Claude.ai, https://claude.ai/chat/782a277e-9d8f-4399-8806-078bf1e22105
+%
+"Why isn’t there an AI app that auto generates symbol+footprint from datasheet?"
+"Because the work is important enough to do it properly."
+    -- https://hackaday.com/2026/05/12/another-gift-to-the-world-from-cern-their-entire-set-of-kicad-libraries/#comment-8296728
