@@ -357,3 +357,8 @@ are structurally built to optimise.
 "Why isn’t there an AI app that auto generates symbol+footprint from datasheet?"
 "Because the work is important enough to do it properly."
     -- https://hackaday.com/2026/05/12/another-gift-to-the-world-from-cern-their-entire-set-of-kicad-libraries/#comment-8296728
+%
+It's kinda like the ultimate StackOverflow search engine and summariser,
+which is a great achievement, but we know what happens when you hire a
+developer who gets everything off of StackOverflow.
+    --cjs on coding LLMs, 2026-05-18
