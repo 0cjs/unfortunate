@@ -368,4 +368,8 @@ may not work as intended. Don’t rely on Copilot for important advice. Use
 Copilot at your own risk.**
     --Microsoft Copilot Terms of Use, October 2025
       https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse/archives
-
+%
+Use `/goal` for work with a verificable end state:
+> /goal all tests in test/auth pass and the lint step is clean
+    --Anthropic promomtional newsletter, aimed presuambly at people who
+      care more about tests passing that software actually working.
