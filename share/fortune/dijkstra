@@ -299,3 +299,7 @@ of the ability to switch readily from microscopic to macroscopic views of
 things, i.e., to change levels of abstraction fluently.
     -- Donald Knuth, "Structured Programming with go to Statements"
        https://dl.acm.org/doi/pdf/10.1145/356635.356640
+%
+...the definition of LISP is still a curious mixture of what the language
+means and how the mechanism works...
+    --Edsger Dijkstra, EWD340 (1972)
