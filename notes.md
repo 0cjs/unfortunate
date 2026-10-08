@@ -124,6 +124,10 @@ of Intelligent Life in the Universe_][tomsear] by Jane Wagner, linking to a
   - p.21 Bertrand Russell, …never know what we are talking about…
 - "(i.e. error)" [Terrance Tao][tao] commenting on [The ABC conjecture has
   (still) not been proved][abc-conj]
+- "…proofs depend on the audience."
+  Bulletin (New Series) of the AMS, volume 30, Number 2, April 1994, page 175.
+  <https://doi.org/10.1090/S0273-0979-1994-00502-6>,
+  <https://www.ams.org/journals/bull/1994-30-02/S0273-0979-1994-00502-6/S0273-0979-1994-00502-6.pdf?t=1791495731225>
 
 [_Specifying Systems_]: https://www.microsoft.com/en-us/research/publication/specifying-systems-the-tla-language-and-tools-for-hardware-and-software-engineers/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Flamport%2Ftla%2Fbook-02-08-08.pdf
 [axiom why lit]: http://axiom-developer.org/axiom-website/documentation.html
